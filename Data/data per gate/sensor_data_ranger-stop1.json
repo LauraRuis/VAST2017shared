@@ -1,0 +1,4978 @@
+{
+    "02/05/2015": {
+        "20:00": {
+            "20154602044612-82": {
+                "car-type": "2P",
+                "time": "20:33",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "02/05/2015 20:29"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "02/05/2015 21:12"
+                }
+            }
+        },
+        "21:00": {
+            "20154602044612-82": {
+                "car-type": "2P",
+                "time": "21:12",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "02/05/2015 20:33"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "02/05/2015 21:17"
+                }
+            }
+        }
+    },
+    "04/05/2015": {
+        "17:00": {
+            "20155404025425-846": {
+                "car-type": "2P",
+                "time": "17:21",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/05/2015 17:19"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "04/05/2015 17:26"
+                }
+            }
+        }
+    },
+    "06/05/2015": {
+        "11:00": {
+            "20155006095026-111": {
+                "car-type": "2P",
+                "time": "11:27",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/05/2015 11:05"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "06/05/2015 11:32"
+                }
+            }
+        }
+    },
+    "07/05/2015": {
+        "19:00": {
+            "20152007042003-474": {
+                "car-type": "2P",
+                "time": "19:56",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "07/05/2015 19:52"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "07/05/2015 20:01"
+                }
+            }
+        }
+    },
+    "08/05/2015": {
+        "07:00": {
+            "20153808063835-434": {
+                "car-type": "2P",
+                "time": "07:17",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "08/05/2015 07:12"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "08/05/2015 08:03"
+                }
+            }
+        },
+        "08:00": {
+            "20153808063835-434": {
+                "car-type": "2P",
+                "time": "08:03",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "08/05/2015 07:17"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "08/05/2015 08:07"
+                }
+            }
+        }
+    },
+    "09/05/2015": {
+        "10:00": {
+            "20153809093819-671": {
+                "car-type": "2P",
+                "time": "10:50",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/05/2015 10:19"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "09/05/2015 10:55"
+                }
+            }
+        }
+    },
+    "10/05/2015": {
+        "13:00": {
+            "20151910081922-106": {
+                "car-type": "2P",
+                "time": "13:19",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/05/2015 13:02"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "10/05/2015 13:23"
+                }
+            }
+        },
+        "14:00": {
+            "20150210090226-728": {
+                "car-type": "2P",
+                "time": "14:27",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/05/2015 14:04"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "10/05/2015 14:31"
+                }
+            }
+        }
+    },
+    "12/05/2015": {
+        "13:00": {
+            "20154312074332-201": {
+                "car-type": "2P",
+                "time": "13:07",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "12/05/2015 13:01"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/05/2015 14:01"
+                }
+            }
+        },
+        "14:00": {
+            "20154312074332-201": {
+                "car-type": "2P",
+                "time": "14:01",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/05/2015 13:07"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "12/05/2015 14:06"
+                }
+            },
+            "20152212092229-313": {
+                "car-type": "2P",
+                "time": "14:22",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "12/05/2015 14:17"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/05/2015 15:01"
+                }
+            }
+        },
+        "15:00": {
+            "20152212092229-313": {
+                "car-type": "2P",
+                "time": "15:01",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/05/2015 14:22"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "12/05/2015 15:06"
+                }
+            }
+        }
+    },
+    "13/05/2015": {
+        "17:00": {
+            "20153013043036-968": {
+                "car-type": "2P",
+                "time": "17:50",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/05/2015 17:16"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "13/05/2015 17:56"
+                }
+            }
+        }
+    },
+    "15/05/2015": {
+        "12:00": {
+            "20153315093319-548": {
+                "car-type": "2P",
+                "time": "12:51",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/05/2015 12:06"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/05/2015 12:56"
+                }
+            }
+        },
+        "14:00": {
+            "20154215014241-33": {
+                "car-type": "2P",
+                "time": "14:26",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/05/2015 14:19"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/05/2015 14:31"
+                }
+            }
+        },
+        "20:00": {
+            "20151415041403-291": {
+                "car-type": "2P",
+                "time": "20:59",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "15/05/2015 20:54"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/05/2015 21:21"
+                }
+            }
+        },
+        "21:00": {
+            "20151415041403-291": {
+                "car-type": "2P",
+                "time": "21:21",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/05/2015 20:59"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/05/2015 21:25"
+                }
+            }
+        }
+    },
+    "19/05/2015": {
+        "08:00": {
+            "20150419070451-672": {
+                "car-type": "2P",
+                "time": "08:26",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "19/05/2015 08:21"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "19/05/2015 09:05"
+                }
+            }
+        },
+        "09:00": {
+            "20150419070451-672": {
+                "car-type": "2P",
+                "time": "09:05",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "19/05/2015 08:26"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "19/05/2015 09:09"
+                }
+            }
+        }
+    },
+    "20/05/2015": {
+        "12:00": {
+            "20152120092115-393": {
+                "car-type": "2P",
+                "time": "12:45",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "20/05/2015 12:30"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "20/05/2015 12:50"
+                }
+            }
+        }
+    },
+    "21/05/2015": {
+        "09:00": {
+            "20152621082611-901": {
+                "car-type": "2P",
+                "time": "09:51",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "21/05/2015 09:02"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "21/05/2015 09:55"
+                }
+            }
+        }
+    },
+    "22/05/2015": {
+        "13:00": {
+            "20154222124252-449": {
+                "car-type": "2P",
+                "time": "13:58",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "22/05/2015 13:23"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "22/05/2015 14:02"
+                }
+            }
+        }
+    },
+    "23/05/2015": {
+        "17:00": {
+            "20151123021124-160": {
+                "car-type": "2P",
+                "time": "17:37",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "23/05/2015 17:03"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "23/05/2015 17:42"
+                }
+            }
+        }
+    },
+    "25/05/2015": {
+        "13:00": {
+            "20152025112000-919": {
+                "car-type": "2P",
+                "time": "13:47",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "25/05/2015 13:31"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "25/05/2015 13:51"
+                }
+            }
+        },
+        "15:00": {
+            "20155925105919-360": {
+                "car-type": "2P",
+                "time": "15:56",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "25/05/2015 15:14"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "25/05/2015 16:01"
+                }
+            }
+        }
+    },
+    "26/05/2015": {
+        "14:00": {
+            "20154726114754-533": {
+                "car-type": "2P",
+                "time": "14:04",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "26/05/2015 14:00"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/05/2015 15:01"
+                }
+            }
+        },
+        "15:00": {
+            "20154726114754-533": {
+                "car-type": "2P",
+                "time": "15:01",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/05/2015 14:04"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "26/05/2015 15:06"
+                }
+            }
+        },
+        "16:00": {
+            "20152826122849-281": {
+                "car-type": "2P",
+                "time": "16:56",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/05/2015 16:13"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "26/05/2015 17:01"
+                }
+            }
+        }
+    },
+    "31/05/2015": {
+        "15:00": {
+            "20150831100850-963": {
+                "car-type": "2P",
+                "time": "15:40",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "31/05/2015 15:28"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "31/05/2015 15:45"
+                }
+            }
+        }
+    },
+    "01/06/2015": {
+        "14:00": {
+            "20155401115457-529": {
+                "car-type": "2P",
+                "time": "14:53",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "01/06/2015 14:33"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "01/06/2015 14:58"
+                }
+            }
+        }
+    },
+    "05/06/2015": {
+        "12:00": {
+            "20153905093930-439": {
+                "car-type": "2P",
+                "time": "12:19",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/06/2015 12:09"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "05/06/2015 12:24"
+                }
+            }
+        },
+        "13:00": {
+            "20153405113448-541": {
+                "car-type": "2P",
+                "time": "13:29",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/06/2015 13:19"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "05/06/2015 13:33"
+                }
+            }
+        },
+        "15:00": {
+            "20150805100804-800": {
+                "car-type": "2P",
+                "time": "15:35",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "05/06/2015 15:30"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/06/2015 16:18"
+                }
+            }
+        },
+        "16:00": {
+            "20150805100804-800": {
+                "car-type": "2P",
+                "time": "16:18",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/06/2015 15:35"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "05/06/2015 16:23"
+                }
+            }
+        }
+    },
+    "08/06/2015": {
+        "15:00": {
+            "20151908021930-514": {
+                "car-type": "2P",
+                "time": "15:31",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "08/06/2015 15:04"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "08/06/2015 15:36"
+                }
+            }
+        },
+        "16:00": {
+            "20154508034512-69": {
+                "car-type": "2P",
+                "time": "16:41",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "08/06/2015 16:26"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "08/06/2015 16:46"
+                }
+            }
+        }
+    },
+    "09/06/2015": {
+        "19:00": {
+            "20154609044639-714": {
+                "car-type": "2P",
+                "time": "19:41",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "09/06/2015 19:36"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/06/2015 20:18"
+                }
+            }
+        },
+        "20:00": {
+            "20154609044639-714": {
+                "car-type": "2P",
+                "time": "20:18",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/06/2015 19:41"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "09/06/2015 20:23"
+                }
+            }
+        }
+    },
+    "10/06/2015": {
+        "17:00": {
+            "20155210045205-876": {
+                "car-type": "2P",
+                "time": "17:42",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/06/2015 17:36"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "10/06/2015 17:47"
+                }
+            },
+            "20153910023920-885": {
+                "car-type": "2P",
+                "time": "17:41",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "10/06/2015 17:36"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/06/2015 18:33"
+                }
+            }
+        },
+        "18:00": {
+            "20153910023920-885": {
+                "car-type": "2P",
+                "time": "18:33",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/06/2015 17:41"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "10/06/2015 18:38"
+                }
+            }
+        }
+    },
+    "11/06/2015": {
+        "12:00": {
+            "20152011082050-49": {
+                "car-type": "2P",
+                "time": "12:57",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/06/2015 12:48"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "11/06/2015 13:02"
+                }
+            }
+        }
+    },
+    "12/06/2015": {
+        "16:00": {
+            "20152612122659-947": {
+                "car-type": "2P",
+                "time": "16:38",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "12/06/2015 16:34"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/06/2015 17:19"
+                }
+            }
+        },
+        "17:00": {
+            "20152612122659-947": {
+                "car-type": "2P",
+                "time": "17:19",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/06/2015 16:38"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "12/06/2015 17:23"
+                }
+            }
+        }
+    },
+    "15/06/2015": {
+        "07:00": {
+            "20151415071411-200": {
+                "car-type": "2P",
+                "time": "07:50",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "15/06/2015 07:46"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/06/2015 08:39"
+                }
+            }
+        },
+        "08:00": {
+            "20151415071411-200": {
+                "car-type": "2P",
+                "time": "08:39",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/06/2015 07:50"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/06/2015 08:44"
+                }
+            }
+        },
+        "09:00": {
+            "20153215063254-434": {
+                "car-type": "2P",
+                "time": "09:44",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/06/2015 09:17"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/06/2015 09:50"
+                }
+            }
+        }
+    },
+    "16/06/2015": {
+        "16:00": {
+            "20152916092901-939": {
+                "car-type": "2P",
+                "time": "16:34",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "16/06/2015 16:01"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "16/06/2015 16:40"
+                }
+            }
+        }
+    },
+    "20/06/2015": {
+        "18:00": {
+            "20152420042418-788": {
+                "car-type": "2P",
+                "time": "18:55",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "20/06/2015 18:51"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "20/06/2015 19:30"
+                }
+            }
+        },
+        "19:00": {
+            "20152420042418-788": {
+                "car-type": "2P",
+                "time": "19:30",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "20/06/2015 18:55"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "20/06/2015 19:34"
+                }
+            }
+        }
+    },
+    "24/06/2015": {
+        "08:00": {
+            "20155824065823-362": {
+                "car-type": "2P",
+                "time": "08:48",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/06/2015 08:23"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "24/06/2015 08:53"
+                }
+            }
+        }
+    },
+    "25/06/2015": {
+        "18:00": {
+            "20151225041257-977": {
+                "car-type": "2P",
+                "time": "18:53",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "25/06/2015 18:22"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "25/06/2015 18:57"
+                }
+            }
+        }
+    },
+    "26/06/2015": {
+        "18:00": {
+            "20153226123205-559": {
+                "car-type": "2P",
+                "time": "18:08",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/06/2015 18:07"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "26/06/2015 18:13"
+                }
+            }
+        }
+    },
+    "28/06/2015": {
+        "18:00": {
+            "20151228011247-72": {
+                "car-type": "2P",
+                "time": "18:18",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "28/06/2015 18:07"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "28/06/2015 18:23"
+                }
+            }
+        }
+    },
+    "30/06/2015": {
+        "12:00": {
+            "20150030090034-886": {
+                "car-type": "2P",
+                "time": "12:49",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "30/06/2015 12:02"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "30/06/2015 12:54"
+                }
+            }
+        }
+    },
+    "01/07/2015": {
+        "16:00": {
+            "20150201040237-719": {
+                "car-type": "2P",
+                "time": "16:46",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "01/07/2015 16:41"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "01/07/2015 17:17"
+                }
+            }
+        },
+        "17:00": {
+            "20150201040237-719": {
+                "car-type": "2P",
+                "time": "17:50",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "01/07/2015 17:17"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "01/07/2015 17:55"
+                }
+            }
+        }
+    },
+    "02/07/2015": {
+        "18:00": {
+            "20155402035448-649": {
+                "car-type": "2P",
+                "time": "18:47",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "02/07/2015 18:12"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "02/07/2015 18:47"
+                }
+            }
+        },
+        "19:00": {
+            "20155402035448-649": {
+                "car-type": "2P",
+                "time": "19:41",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "02/07/2015 18:47"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "02/07/2015 19:46"
+                }
+            }
+        }
+    },
+    "04/07/2015": {
+        "15:00": {
+            "20154004124049-126": {
+                "car-type": "2P",
+                "time": "15:13",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "04/07/2015 15:09"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/07/2015 16:11"
+                }
+            }
+        },
+        "16:00": {
+            "20155204015218-625": {
+                "car-type": "2P",
+                "time": "16:59",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/07/2015 16:10"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "04/07/2015 17:04"
+                }
+            },
+            "20154004124049-126": {
+                "car-type": "2P",
+                "time": "16:11",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/07/2015 15:13"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "04/07/2015 16:16"
+                }
+            }
+        }
+    },
+    "06/07/2015": {
+        "13:00": {
+            "20153906123909-784": {
+                "car-type": "2P",
+                "time": "13:57",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/07/2015 13:42"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "06/07/2015 14:01"
+                }
+            }
+        }
+    },
+    "10/07/2015": {
+        "10:00": {
+            "20152810102803-808": {
+                "car-type": "1",
+                "time": "10:35",
+                "previous": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 10:28"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 12:00"
+                }
+            },
+            "20152810102819-458": {
+                "car-type": "1",
+                "time": "10:36",
+                "previous": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 10:28"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 13:56"
+                }
+            },
+            "20152810102828-459": {
+                "car-type": "1",
+                "time": "10:36",
+                "previous": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 10:28"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 16:21"
+                }
+            },
+            "20152910102928-970": {
+                "car-type": "1",
+                "time": "10:36",
+                "previous": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 10:29"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 15:50"
+                }
+            },
+            "20153010103017-871": {
+                "car-type": "1",
+                "time": "10:37",
+                "previous": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 10:30"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 14:14"
+                }
+            },
+            "20152910102959-782": {
+                "car-type": "1",
+                "time": "10:37",
+                "previous": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 10:29"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 14:36"
+                }
+            }
+        },
+        "11:00": {
+            "20151510101519-368": {
+                "car-type": "2P",
+                "time": "11:45",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 11:39"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "10/07/2015 11:49"
+                }
+            }
+        },
+        "12:00": {
+            "20152810102803-808": {
+                "car-type": "1",
+                "time": "12:00",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 10:35"
+                },
+                "next": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 12:08"
+                }
+            }
+        },
+        "13:00": {
+            "20152810102819-458": {
+                "car-type": "1",
+                "time": "13:56",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 10:36"
+                },
+                "next": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 14:03"
+                }
+            }
+        },
+        "14:00": {
+            "20153010103017-871": {
+                "car-type": "1",
+                "time": "14:14",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 10:37"
+                },
+                "next": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 14:21"
+                }
+            },
+            "20152910102959-782": {
+                "car-type": "1",
+                "time": "14:36",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 10:37"
+                },
+                "next": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 14:44"
+                }
+            }
+        },
+        "15:00": {
+            "20152910102928-970": {
+                "car-type": "1",
+                "time": "15:50",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 10:36"
+                },
+                "next": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 15:57"
+                }
+            }
+        },
+        "16:00": {
+            "20152810102828-459": {
+                "car-type": "1",
+                "time": "16:21",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/07/2015 10:36"
+                },
+                "next": {
+                    "gate": "entrance1",
+                    "timestamp": "10/07/2015 16:29"
+                }
+            }
+        }
+    },
+    "11/07/2015": {
+        "21:00": {
+            "20154711034718-337": {
+                "car-type": "2P",
+                "time": "21:40",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/07/2015 21:06"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "11/07/2015 21:45"
+                }
+            }
+        }
+    },
+    "16/07/2015": {
+        "15:00": {
+            "20154616014649-510": {
+                "car-type": "2P",
+                "time": "15:50",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "16/07/2015 15:09"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "16/07/2015 15:55"
+                }
+            }
+        }
+    },
+    "21/07/2015": {
+        "14:00": {
+            "20150421010452-980": {
+                "car-type": "2P",
+                "time": "14:59",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "21/07/2015 14:49"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "21/07/2015 15:04"
+                }
+            }
+        }
+    },
+    "22/07/2015": {
+        "17:00": {
+            "20154522124556-589": {
+                "car-type": "2P",
+                "time": "17:36",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "22/07/2015 17:31"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "22/07/2015 18:05"
+                }
+            }
+        },
+        "18:00": {
+            "20154522124556-589": {
+                "car-type": "2P",
+                "time": "18:05",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "22/07/2015 17:36"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "22/07/2015 18:11"
+                }
+            }
+        }
+    },
+    "25/07/2015": {
+        "17:00": {
+            "20155025115040-735": {
+                "car-type": "2P",
+                "time": "17:52",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "25/07/2015 17:48"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "25/07/2015 18:30"
+                }
+            }
+        },
+        "18:00": {
+            "20155025115040-735": {
+                "car-type": "2P",
+                "time": "18:30",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "25/07/2015 17:52"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "25/07/2015 18:34"
+                }
+            }
+        }
+    },
+    "26/07/2015": {
+        "12:00": {
+            "20150826100847-715": {
+                "car-type": "2P",
+                "time": "12:49",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/07/2015 12:05"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "26/07/2015 12:54"
+                }
+            }
+        },
+        "19:00": {
+            "20154126014149-199": {
+                "car-type": "2P",
+                "time": "19:26",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/07/2015 19:09"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "26/07/2015 19:30"
+                }
+            }
+        }
+    },
+    "27/07/2015": {
+        "07:00": {
+            "20151827071839-305": {
+                "car-type": "2P",
+                "time": "07:55",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "27/07/2015 07:50"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "27/07/2015 08:36"
+                }
+            }
+        },
+        "08:00": {
+            "20151827071839-305": {
+                "car-type": "2P",
+                "time": "08:36",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "27/07/2015 07:55"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "27/07/2015 08:40"
+                }
+            }
+        }
+    },
+    "07/08/2015": {
+        "15:00": {
+            "20152707012737-110": {
+                "car-type": "2P",
+                "time": "15:58",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "07/08/2015 15:52"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "07/08/2015 16:57"
+                }
+            }
+        },
+        "16:00": {
+            "20152707012737-110": {
+                "car-type": "2P",
+                "time": "16:57",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "07/08/2015 15:58"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "07/08/2015 17:02"
+                }
+            }
+        }
+    },
+    "08/08/2015": {
+        "13:00": {
+            "20151708111710-843": {
+                "car-type": "2P",
+                "time": "13:33",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "08/08/2015 13:29"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "08/08/2015 14:23"
+                }
+            }
+        },
+        "14:00": {
+            "20151708111710-843": {
+                "car-type": "2P",
+                "time": "14:23",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "08/08/2015 13:33"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "08/08/2015 14:27"
+                }
+            }
+        }
+    },
+    "10/08/2015": {
+        "15:00": {
+            "20153810113852-786": {
+                "car-type": "2P",
+                "time": "15:28",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/08/2015 15:09"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "10/08/2015 15:34"
+                }
+            }
+        }
+    },
+    "11/08/2015": {
+        "08:00": {
+            "20152911062921-382": {
+                "car-type": "2P",
+                "time": "08:47",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "11/08/2015 08:42"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/08/2015 09:24"
+                }
+            }
+        },
+        "09:00": {
+            "20152911062921-382": {
+                "car-type": "2P",
+                "time": "09:24",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/08/2015 08:47"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "11/08/2015 09:29"
+                }
+            }
+        },
+        "10:00": {
+            "20154511074500-960": {
+                "car-type": "2P",
+                "time": "10:24",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "11/08/2015 10:18"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/08/2015 11:10"
+                }
+            }
+        },
+        "11:00": {
+            "20154511074500-960": {
+                "car-type": "2P",
+                "time": "11:10",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/08/2015 10:24"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "11/08/2015 11:15"
+                }
+            }
+        }
+    },
+    "12/08/2015": {
+        "11:00": {
+            "20150712060714-467": {
+                "car-type": "2P",
+                "time": "11:57",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "12/08/2015 11:52"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/08/2015 12:26"
+                }
+            }
+        },
+        "12:00": {
+            "20150712060714-467": {
+                "car-type": "2P",
+                "time": "12:26",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/08/2015 11:57"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "12/08/2015 12:31"
+                }
+            }
+        }
+    },
+    "13/08/2015": {
+        "08:00": {
+            "20151313061319-588": {
+                "car-type": "2P",
+                "time": "08:38",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "13/08/2015 08:33"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/08/2015 09:26"
+                }
+            }
+        },
+        "09:00": {
+            "20151313061319-588": {
+                "car-type": "2P",
+                "time": "09:26",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/08/2015 08:38"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "13/08/2015 09:30"
+                }
+            }
+        }
+    },
+    "17/08/2015": {
+        "16:00": {
+            "20155817015848-991": {
+                "car-type": "2P",
+                "time": "16:44",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "17/08/2015 16:39"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "17/08/2015 16:49"
+                }
+            }
+        }
+    },
+    "21/08/2015": {
+        "10:00": {
+            "20151221101252-161": {
+                "car-type": "2P",
+                "time": "10:51",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "21/08/2015 10:46"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "21/08/2015 11:26"
+                }
+            }
+        },
+        "11:00": {
+            "20151221101252-161": {
+                "car-type": "2P",
+                "time": "11:37",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "21/08/2015 11:26"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "21/08/2015 11:41"
+                }
+            }
+        },
+        "18:00": {
+            "20152321052344-894": {
+                "car-type": "2P",
+                "time": "18:22",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "21/08/2015 18:10"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "21/08/2015 18:27"
+                }
+            }
+        }
+    },
+    "22/08/2015": {
+        "19:00": {
+            "20153022023040-86": {
+                "car-type": "2P",
+                "time": "19:20",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "22/08/2015 19:15"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "22/08/2015 20:16"
+                }
+            }
+        },
+        "20:00": {
+            "20153022023040-86": {
+                "car-type": "2P",
+                "time": "20:16",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "22/08/2015 19:20"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "22/08/2015 20:21"
+                }
+            }
+        }
+    },
+    "25/08/2015": {
+        "09:00": {
+            "20150725070710-928": {
+                "car-type": "2P",
+                "time": "09:49",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "25/08/2015 09:35"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "25/08/2015 09:53"
+                }
+            }
+        },
+        "20:00": {
+            "20150625030655-107": {
+                "car-type": "2P",
+                "time": "20:12",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "25/08/2015 20:03"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "25/08/2015 20:17"
+                }
+            }
+        }
+    },
+    "26/08/2015": {
+        "15:00": {
+            "20155526025509-969": {
+                "car-type": "2P",
+                "time": "15:40",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "26/08/2015 15:34"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/08/2015 16:28"
+                }
+            }
+        },
+        "16:00": {
+            "20155526025509-969": {
+                "car-type": "2P",
+                "time": "16:30",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/08/2015 16:28"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "26/08/2015 16:35"
+                }
+            }
+        }
+    },
+    "29/08/2015": {
+        "16:00": {
+            "20151929121931-462": {
+                "car-type": "2P",
+                "time": "16:58",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "29/08/2015 16:53"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "29/08/2015 17:18"
+                }
+            }
+        },
+        "17:00": {
+            "20151929121931-462": {
+                "car-type": "2P",
+                "time": "17:18",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "29/08/2015 16:58"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "29/08/2015 17:23"
+                }
+            }
+        }
+    },
+    "31/08/2015": {
+        "15:00": {
+            "20150431010443-726": {
+                "car-type": "2P",
+                "time": "15:21",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "31/08/2015 15:13"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "31/08/2015 15:25"
+                }
+            }
+        }
+    },
+    "02/09/2015": {
+        "12:00": {
+            "20154102114107-39": {
+                "car-type": "2P",
+                "time": "12:58",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "02/09/2015 12:17"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "02/09/2015 13:02"
+                }
+            }
+        },
+        "16:00": {
+            "20151402021419-157": {
+                "car-type": "2P",
+                "time": "16:42",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "02/09/2015 16:37"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "02/09/2015 17:27"
+                }
+            }
+        },
+        "17:00": {
+            "20151402021419-157": {
+                "car-type": "2P",
+                "time": "17:27",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "02/09/2015 16:42"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "02/09/2015 17:31"
+                }
+            }
+        }
+    },
+    "04/09/2015": {
+        "12:00": {
+            "20153704093744-62": {
+                "car-type": "2P",
+                "time": "12:48",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "04/09/2015 12:43"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/09/2015 13:25"
+                }
+            }
+        },
+        "13:00": {
+            "20153704093744-62": {
+                "car-type": "2P",
+                "time": "13:25",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/09/2015 12:48"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "04/09/2015 13:29"
+                }
+            }
+        },
+        "16:00": {
+            "20155404015431-242": {
+                "car-type": "2P",
+                "time": "16:47",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/09/2015 16:23"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "04/09/2015 16:52"
+                }
+            }
+        }
+    },
+    "05/09/2015": {
+        "15:00": {
+            "20151305011359-918": {
+                "car-type": "2P",
+                "time": "15:26",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "05/09/2015 15:21"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/09/2015 16:17"
+                }
+            }
+        },
+        "16:00": {
+            "20151305011359-918": {
+                "car-type": "2P",
+                "time": "16:17",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/09/2015 15:26"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "05/09/2015 16:22"
+                }
+            }
+        }
+    },
+    "06/09/2015": {
+        "12:00": {
+            "20152706092737-722": {
+                "car-type": "2P",
+                "time": "12:30",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/09/2015 12:26"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "06/09/2015 12:35"
+                }
+            }
+        }
+    },
+    "07/09/2015": {
+        "14:00": {
+            "20155407115448-173": {
+                "car-type": "2P",
+                "time": "14:26",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "07/09/2015 14:22"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "07/09/2015 15:02"
+                }
+            }
+        },
+        "15:00": {
+            "20155407115448-173": {
+                "car-type": "2P",
+                "time": "15:02",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "07/09/2015 14:26"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "07/09/2015 15:07"
+                }
+            }
+        }
+    },
+    "09/09/2015": {
+        "21:00": {
+            "20155609035611-390": {
+                "car-type": "2P",
+                "time": "21:58",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/09/2015 21:28"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "09/09/2015 22:03"
+                }
+            }
+        }
+    },
+    "11/09/2015": {
+        "20:00": {
+            "20151211031240-876": {
+                "car-type": "2P",
+                "time": "20:14",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "11/09/2015 20:09"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/09/2015 21:12"
+                }
+            }
+        },
+        "21:00": {
+            "20151211031240-876": {
+                "car-type": "2P",
+                "time": "21:12",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/09/2015 20:14"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "11/09/2015 21:17"
+                }
+            }
+        }
+    },
+    "14/09/2015": {
+        "21:00": {
+            "20155114045130-81": {
+                "car-type": "2P",
+                "time": "21:28",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "14/09/2015 21:06"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "14/09/2015 21:33"
+                }
+            }
+        }
+    },
+    "17/09/2015": {
+        "20:00": {
+            "20152617022607-984": {
+                "car-type": "2P",
+                "time": "20:39",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "17/09/2015 20:38"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "17/09/2015 20:44"
+                }
+            }
+        }
+    },
+    "20/09/2015": {
+        "09:00": {
+            "20151020061037-783": {
+                "car-type": "2P",
+                "time": "09:52",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "20/09/2015 09:17"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "20/09/2015 09:57"
+                }
+            }
+        },
+        "13:00": {
+            "20155420105449-388": {
+                "car-type": "2P",
+                "time": "13:07",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "20/09/2015 13:03"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "20/09/2015 13:12"
+                }
+            }
+        }
+    },
+    "23/09/2015": {
+        "17:00": {
+            "20151423021404-449": {
+                "car-type": "2P",
+                "time": "17:38",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "23/09/2015 17:17"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "23/09/2015 17:43"
+                }
+            }
+        }
+    },
+    "25/09/2015": {
+        "16:00": {
+            "20155525095527-314": {
+                "car-type": "2P",
+                "time": "16:36",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "25/09/2015 16:11"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "25/09/2015 16:42"
+                }
+            }
+        }
+    },
+    "27/09/2015": {
+        "07:00": {
+            "20154927064922-108": {
+                "car-type": "2P",
+                "time": "07:33",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "27/09/2015 07:28"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "27/09/2015 08:13"
+                }
+            }
+        },
+        "08:00": {
+            "20154927064922-108": {
+                "car-type": "2P",
+                "time": "08:13",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "27/09/2015 07:33"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "27/09/2015 08:18"
+                }
+            }
+        },
+        "10:00": {
+            "20154927064922-108": {
+                "car-type": "2P",
+                "time": "10:21",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "27/09/2015 10:15"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "27/09/2015 11:03"
+                }
+            }
+        },
+        "11:00": {
+            "20154927064922-108": {
+                "car-type": "2P",
+                "time": "11:03",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "27/09/2015 10:21"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "27/09/2015 11:08"
+                }
+            }
+        }
+    },
+    "28/09/2015": {
+        "12:00": {
+            "20150128080123-70": {
+                "car-type": "2P",
+                "time": "12:38",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "28/09/2015 12:29"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "28/09/2015 12:43"
+                }
+            }
+        }
+    },
+    "05/10/2015": {
+        "19:00": {
+            "20150805050852-127": {
+                "car-type": "2P",
+                "time": "19:39",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/10/2015 19:29"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "05/10/2015 19:44"
+                }
+            }
+        }
+    },
+    "08/10/2015": {
+        "21:00": {
+            "20153308043302-2": {
+                "car-type": "2P",
+                "time": "21:59",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "08/10/2015 21:34"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "08/10/2015 22:05"
+                }
+            }
+        }
+    },
+    "12/10/2015": {
+        "16:00": {
+            "20154912014903-862": {
+                "car-type": "2P",
+                "time": "16:15",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "12/10/2015 16:10"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/10/2015 17:13"
+                }
+            }
+        },
+        "17:00": {
+            "20154912014903-862": {
+                "car-type": "2P",
+                "time": "17:13",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/10/2015 16:15"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "12/10/2015 17:18"
+                }
+            }
+        }
+    },
+    "13/10/2015": {
+        "12:00": {
+            "20153713103711-913": {
+                "car-type": "2P",
+                "time": "12:57",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "13/10/2015 12:52"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/10/2015 13:31"
+                }
+            }
+        },
+        "13:00": {
+            "20153713103711-913": {
+                "car-type": "2P",
+                "time": "13:31",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/10/2015 12:57"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "13/10/2015 13:35"
+                }
+            }
+        }
+    },
+    "14/10/2015": {
+        "12:00": {
+            "20150314110309-545": {
+                "car-type": "2P",
+                "time": "12:54",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "14/10/2015 12:50"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "14/10/2015 13:13"
+                }
+            }
+        },
+        "13:00": {
+            "20150314110309-545": {
+                "car-type": "2P",
+                "time": "13:13",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "14/10/2015 12:54"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "14/10/2015 13:17"
+                }
+            }
+        },
+        "19:00": {
+            "20152514012518-423": {
+                "car-type": "2P",
+                "time": "19:57",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "14/10/2015 19:54"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "14/10/2015 20:03"
+                }
+            }
+        }
+    },
+    "15/10/2015": {
+        "15:00": {
+            "20151915011952-249": {
+                "car-type": "2P",
+                "time": "15:36",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "15/10/2015 15:31"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/10/2015 16:06"
+                }
+            }
+        },
+        "16:00": {
+            "20151915011952-249": {
+                "car-type": "2P",
+                "time": "16:06",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/10/2015 15:36"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/10/2015 16:12"
+                }
+            }
+        }
+    },
+    "17/10/2015": {
+        "17:00": {
+            "20153717023707-721": {
+                "car-type": "2P",
+                "time": "17:47",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "17/10/2015 17:19"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "17/10/2015 17:53"
+                }
+            }
+        },
+        "19:00": {
+            "20150917030929-874": {
+                "car-type": "2P",
+                "time": "19:35",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "17/10/2015 19:16"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "17/10/2015 19:40"
+                }
+            }
+        }
+    },
+    "18/10/2015": {
+        "09:00": {
+            "20154218064254-866": {
+                "car-type": "2P",
+                "time": "09:36",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "18/10/2015 09:31"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "18/10/2015 10:08"
+                }
+            }
+        },
+        "10:00": {
+            "20154218064254-866": {
+                "car-type": "2P",
+                "time": "10:08",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "18/10/2015 09:36"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "18/10/2015 10:14"
+                }
+            }
+        }
+    },
+    "23/10/2015": {
+        "12:00": {
+            "20155823085839-596": {
+                "car-type": "2P",
+                "time": "12:17",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "23/10/2015 12:05"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "23/10/2015 12:21"
+                }
+            }
+        }
+    },
+    "24/10/2015": {
+        "14:00": {
+            "20153224013243-948": {
+                "car-type": "2P",
+                "time": "14:17",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/10/2015 14:12"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "24/10/2015 14:22"
+                }
+            }
+        }
+    },
+    "26/10/2015": {
+        "17:00": {
+            "20152626022632-543": {
+                "car-type": "2P",
+                "time": "17:01",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "26/10/2015 16:56"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/10/2015 18:01"
+                }
+            }
+        },
+        "18:00": {
+            "20152626022632-543": {
+                "car-type": "2P",
+                "time": "18:01",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/10/2015 17:01"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "26/10/2015 18:06"
+                }
+            }
+        }
+    },
+    "31/10/2015": {
+        "13:00": {
+            "20150331090309-424": {
+                "car-type": "2P",
+                "time": "13:42",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "31/10/2015 13:30"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "31/10/2015 13:46"
+                }
+            }
+        },
+        "15:00": {
+            "20152231092249-413": {
+                "car-type": "2P",
+                "time": "15:54",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "31/10/2015 15:00"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "31/10/2015 15:59"
+                }
+            }
+        }
+    },
+    "01/11/2015": {
+        "12:00": {
+            "20151301101307-609": {
+                "car-type": "2P",
+                "time": "12:47",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "01/11/2015 12:11"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "01/11/2015 12:52"
+                }
+            }
+        }
+    },
+    "06/11/2015": {
+        "16:00": {
+            "20155106115123-259": {
+                "car-type": "2P",
+                "time": "16:37",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "06/11/2015 16:32"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/11/2015 17:21"
+                }
+            }
+        },
+        "17:00": {
+            "20155106115123-259": {
+                "car-type": "2P",
+                "time": "17:21",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/11/2015 16:37"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "06/11/2015 17:26"
+                }
+            }
+        }
+    },
+    "09/11/2015": {
+        "15:00": {
+            "20150509030516-354": {
+                "car-type": "2P",
+                "time": "15:51",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "09/11/2015 15:46"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/11/2015 16:41"
+                }
+            }
+        },
+        "16:00": {
+            "20150509030516-354": {
+                "car-type": "2P",
+                "time": "16:41",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/11/2015 15:51"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "09/11/2015 16:47"
+                }
+            }
+        }
+    },
+    "10/11/2015": {
+        "11:00": {
+            "20150210110251-325": {
+                "car-type": "2P",
+                "time": "11:51",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/11/2015 11:42"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "10/11/2015 11:55"
+                }
+            }
+        }
+    },
+    "11/11/2015": {
+        "15:00": {
+            "20153911023922-232": {
+                "car-type": "2P",
+                "time": "15:51",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/11/2015 15:27"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "11/11/2015 15:56"
+                }
+            }
+        },
+        "20:00": {
+            "20155211035238-685": {
+                "car-type": "2P",
+                "time": "20:20",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "11/11/2015 20:15"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/11/2015 21:19"
+                }
+            }
+        },
+        "21:00": {
+            "20155211035238-685": {
+                "car-type": "2P",
+                "time": "21:19",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/11/2015 20:20"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "11/11/2015 21:23"
+                }
+            }
+        }
+    },
+    "13/11/2015": {
+        "10:00": {
+            "20153813073854-147": {
+                "car-type": "2P",
+                "time": "10:31",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "13/11/2015 10:26"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/11/2015 11:19"
+                }
+            }
+        },
+        "11:00": {
+            "20153813073854-147": {
+                "car-type": "2P",
+                "time": "11:19",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/11/2015 10:31"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "13/11/2015 11:25"
+                }
+            }
+        }
+    },
+    "14/11/2015": {
+        "13:00": {
+            "20153914113913-928": {
+                "car-type": "2P",
+                "time": "13:52",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "14/11/2015 13:46"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "14/11/2015 14:02"
+                }
+            }
+        },
+        "14:00": {
+            "20153914113913-928": {
+                "car-type": "2P",
+                "time": "14:02",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "14/11/2015 13:52"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "14/11/2015 14:07"
+                }
+            }
+        }
+    },
+    "15/11/2015": {
+        "20:00": {
+            "20154815024805-373": {
+                "car-type": "2P",
+                "time": "20:28",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/11/2015 20:17"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/11/2015 20:34"
+                }
+            }
+        }
+    },
+    "16/11/2015": {
+        "19:00": {
+            "20154016054014-797": {
+                "car-type": "2P",
+                "time": "19:56",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "16/11/2015 19:51"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "16/11/2015 20:48"
+                }
+            }
+        },
+        "20:00": {
+            "20154016054014-797": {
+                "car-type": "2P",
+                "time": "20:48",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "16/11/2015 19:56"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "16/11/2015 20:52"
+                }
+            }
+        }
+    },
+    "17/11/2015": {
+        "13:00": {
+            "20152717112747-232": {
+                "car-type": "2P",
+                "time": "13:24",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "17/11/2015 13:04"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "17/11/2015 13:29"
+                }
+            }
+        }
+    },
+    "19/11/2015": {
+        "11:00": {
+            "20153819083843-621": {
+                "car-type": "2P",
+                "time": "11:17",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "19/11/2015 11:10"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "19/11/2015 11:23"
+                }
+            }
+        },
+        "12:00": {
+            "20151319081302-226": {
+                "car-type": "2P",
+                "time": "12:08",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "19/11/2015 12:02"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "19/11/2015 12:12"
+                }
+            }
+        }
+    },
+    "23/11/2015": {
+        "10:00": {
+            "20152923092956-645": {
+                "car-type": "2P",
+                "time": "10:40",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "23/11/2015 10:09"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "23/11/2015 10:44"
+                }
+            }
+        },
+        "19:00": {
+            "20155423045451-965": {
+                "car-type": "2P",
+                "time": "19:34",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "23/11/2015 19:31"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "23/11/2015 19:40"
+                }
+            }
+        }
+    },
+    "24/11/2015": {
+        "19:00": {
+            "20154924044946-611": {
+                "car-type": "2P",
+                "time": "19:47",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "24/11/2015 19:42"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/11/2015 20:33"
+                }
+            }
+        },
+        "20:00": {
+            "20154924044946-611": {
+                "car-type": "2P",
+                "time": "20:33",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/11/2015 19:47"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "24/11/2015 20:37"
+                }
+            }
+        }
+    },
+    "29/11/2015": {
+        "11:00": {
+            "20150229060250-368": {
+                "car-type": "2P",
+                "time": "11:45",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "29/11/2015 11:40"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "29/11/2015 12:41"
+                }
+            }
+        },
+        "12:00": {
+            "20150229060250-368": {
+                "car-type": "2P",
+                "time": "12:41",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "29/11/2015 11:45"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "29/11/2015 12:46"
+                }
+            }
+        },
+        "20:00": {
+            "20152329042336-445": {
+                "car-type": "2P",
+                "time": "20:48",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "29/11/2015 20:43"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "29/11/2015 21:18"
+                }
+            }
+        },
+        "21:00": {
+            "20152329042336-445": {
+                "car-type": "2P",
+                "time": "21:18",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "29/11/2015 20:48"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "29/11/2015 21:22"
+                }
+            }
+        }
+    },
+    "30/11/2015": {
+        "17:00": {
+            "20152730112706-517": {
+                "car-type": "2P",
+                "time": "17:55",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "30/11/2015 17:50"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "30/11/2015 18:48"
+                }
+            }
+        },
+        "18:00": {
+            "20152730112706-517": {
+                "car-type": "2P",
+                "time": "18:48",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "30/11/2015 17:55"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "30/11/2015 18:53"
+                }
+            }
+        }
+    },
+    "02/12/2015": {
+        "18:00": {
+            "20150202030203-631": {
+                "car-type": "2P",
+                "time": "18:59",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "02/12/2015 18:58"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "02/12/2015 19:04"
+                }
+            }
+        }
+    },
+    "03/12/2015": {
+        "12:00": {
+            "20155003065006-500": {
+                "car-type": "2P",
+                "time": "12:43",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "03/12/2015 12:04"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "03/12/2015 12:49"
+                }
+            }
+        },
+        "13:00": {
+            "20151503081557-917": {
+                "car-type": "2P",
+                "time": "13:31",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "03/12/2015 13:12"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "03/12/2015 13:36"
+                }
+            }
+        }
+    },
+    "06/12/2015": {
+        "09:00": {
+            "20153306063352-473": {
+                "car-type": "2P",
+                "time": "09:46",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "06/12/2015 09:41"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/12/2015 10:17"
+                }
+            }
+        },
+        "10:00": {
+            "20153306063352-473": {
+                "car-type": "2P",
+                "time": "10:17",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/12/2015 09:46"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "06/12/2015 10:21"
+                }
+            }
+        }
+    },
+    "07/12/2015": {
+        "19:00": {
+            "20150007050005-262": {
+                "car-type": "2P",
+                "time": "19:58",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "07/12/2015 19:27"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "07/12/2015 20:04"
+                }
+            }
+        }
+    },
+    "10/12/2015": {
+        "16:00": {
+            "20151110011101-322": {
+                "car-type": "2P",
+                "time": "16:32",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/12/2015 16:08"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "10/12/2015 16:36"
+                }
+            }
+        },
+        "22:00": {
+            "20153710043759-580": {
+                "car-type": "2P",
+                "time": "22:59",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "10/12/2015 22:50"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "10/12/2015 23:04"
+                }
+            }
+        }
+    },
+    "13/12/2015": {
+        "16:00": {
+            "20151313011356-56": {
+                "car-type": "2P",
+                "time": "16:25",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/12/2015 16:16"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "13/12/2015 16:30"
+                }
+            }
+        }
+    },
+    "16/12/2015": {
+        "14:00": {
+            "20155116095154-87": {
+                "car-type": "2P",
+                "time": "14:41",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "16/12/2015 14:15"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "16/12/2015 14:47"
+                }
+            }
+        },
+        "16:00": {
+            "20155916015920-447": {
+                "car-type": "2P",
+                "time": "16:35",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "16/12/2015 16:30"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "16/12/2015 17:12"
+                }
+            }
+        },
+        "17:00": {
+            "20155916015920-447": {
+                "car-type": "2P",
+                "time": "17:12",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "16/12/2015 16:35"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "16/12/2015 17:17"
+                }
+            }
+        }
+    },
+    "18/12/2015": {
+        "18:00": {
+            "20152918032926-186": {
+                "car-type": "2P",
+                "time": "18:32",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "18/12/2015 18:07"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "18/12/2015 18:37"
+                }
+            }
+        }
+    },
+    "24/12/2015": {
+        "14:00": {
+            "20150724020753-165": {
+                "car-type": "2P",
+                "time": "14:58",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "24/12/2015 14:53"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/12/2015 15:34"
+                }
+            }
+        },
+        "15:00": {
+            "20150724020753-165": {
+                "car-type": "2P",
+                "time": "15:34",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/12/2015 14:58"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "24/12/2015 15:38"
+                }
+            }
+        }
+    },
+    "25/12/2015": {
+        "18:00": {
+            "20151825021809-902": {
+                "car-type": "2P",
+                "time": "18:50",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "25/12/2015 18:45"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "25/12/2015 19:00"
+                }
+            }
+        },
+        "19:00": {
+            "20151825021809-902": {
+                "car-type": "2P",
+                "time": "19:00",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "25/12/2015 18:50"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "25/12/2015 19:05"
+                }
+            }
+        }
+    },
+    "26/12/2015": {
+        "19:00": {
+            "20153326053354-839": {
+                "car-type": "2P",
+                "time": "19:43",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "26/12/2015 19:37"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/12/2015 20:01"
+                }
+            }
+        },
+        "20:00": {
+            "20153326053354-839": {
+                "car-type": "2P",
+                "time": "20:01",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/12/2015 19:43"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "26/12/2015 20:06"
+                }
+            }
+        }
+    },
+    "29/12/2015": {
+        "16:00": {
+            "20154529124514-914": {
+                "car-type": "2P",
+                "time": "16:46",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "29/12/2015 16:01"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "29/12/2015 16:51"
+                }
+            }
+        }
+    },
+    "30/12/2015": {
+        "10:00": {
+            "20154930094929-347": {
+                "car-type": "2P",
+                "time": "10:50",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "30/12/2015 10:27"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "30/12/2015 10:54"
+                }
+            }
+        }
+    },
+    "04/01/2016": {
+        "12:00": {
+            "20162204112241-562": {
+                "car-type": "2P",
+                "time": "12:22",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/01/2016 12:03"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/01/2016 12:22"
+                }
+            }
+        },
+        "13:00": {
+            "20162204112241-562": {
+                "car-type": "2P",
+                "time": "13:20",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/01/2016 12:22"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "04/01/2016 13:25"
+                }
+            }
+        },
+        "18:00": {
+            "20160004020014-584": {
+                "car-type": "2P",
+                "time": "18:30",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "04/01/2016 18:25"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/01/2016 19:21"
+                }
+            }
+        },
+        "19:00": {
+            "20160004020014-584": {
+                "car-type": "2P",
+                "time": "19:21",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/01/2016 18:30"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "04/01/2016 19:25"
+                }
+            }
+        }
+    },
+    "06/01/2016": {
+        "11:00": {
+            "20164106064104-865": {
+                "car-type": "2P",
+                "time": "11:45",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "06/01/2016 11:39"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/01/2016 12:35"
+                }
+            }
+        },
+        "12:00": {
+            "20164106064104-865": {
+                "car-type": "2P",
+                "time": "12:35",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/01/2016 11:45"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "06/01/2016 12:40"
+                }
+            }
+        }
+    },
+    "07/01/2016": {
+        "11:00": {
+            "20161207081229-627": {
+                "car-type": "2P",
+                "time": "11:48",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "07/01/2016 11:14"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "07/01/2016 11:52"
+                }
+            },
+            "20160807080846-187": {
+                "car-type": "2P",
+                "time": "11:43",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "07/01/2016 11:27"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "07/01/2016 11:48"
+                }
+            }
+        }
+    },
+    "09/01/2016": {
+        "11:00": {
+            "20160709090729-590": {
+                "car-type": "2P",
+                "time": "11:54",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/01/2016 11:21"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "09/01/2016 11:59"
+                }
+            }
+        },
+        "16:00": {
+            "20165809035816-919": {
+                "car-type": "2P",
+                "time": "16:44",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "09/01/2016 16:39"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/01/2016 17:05"
+                }
+            }
+        },
+        "17:00": {
+            "20165809035816-919": {
+                "car-type": "2P",
+                "time": "17:05",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/01/2016 16:44"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "09/01/2016 17:11"
+                }
+            }
+        }
+    },
+    "12/01/2016": {
+        "18:00": {
+            "20161312051308-262": {
+                "car-type": "2P",
+                "time": "18:33",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "12/01/2016 18:28"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/01/2016 19:29"
+                }
+            }
+        },
+        "19:00": {
+            "20161312051308-262": {
+                "car-type": "2P",
+                "time": "19:29",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/01/2016 18:33"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "12/01/2016 19:33"
+                }
+            }
+        }
+    },
+    "13/01/2016": {
+        "16:00": {
+            "20163513023515-187": {
+                "car-type": "2P",
+                "time": "16:52",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "13/01/2016 16:47"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/01/2016 17:45"
+                }
+            }
+        },
+        "17:00": {
+            "20163513023515-187": {
+                "car-type": "2P",
+                "time": "17:45",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/01/2016 16:52"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "13/01/2016 17:50"
+                }
+            }
+        }
+    },
+    "14/01/2016": {
+        "09:00": {
+            "20163914063904-578": {
+                "car-type": "2P",
+                "time": "09:19",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "14/01/2016 09:17"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "14/01/2016 09:24"
+                }
+            }
+        }
+    },
+    "15/01/2016": {
+        "12:00": {
+            "20165615065614-36": {
+                "car-type": "2P",
+                "time": "12:40",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "15/01/2016 12:36"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/01/2016 13:07"
+                }
+            }
+        },
+        "13:00": {
+            "20165615065614-36": {
+                "car-type": "2P",
+                "time": "13:07",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/01/2016 12:40"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/01/2016 13:12"
+                }
+            }
+        }
+    },
+    "16/01/2016": {
+        "08:00": {
+            "20164316074335-917": {
+                "car-type": "2P",
+                "time": "08:28",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "16/01/2016 08:25"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "16/01/2016 08:33"
+                }
+            }
+        },
+        "23:00": {
+            "20164016054015-127": {
+                "car-type": "2P",
+                "time": "23:26",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "16/01/2016 23:21"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "17/01/2016 00:17"
+                }
+            }
+        }
+    },
+    "17/01/2016": {
+        "00:00": {
+            "20164016054015-127": {
+                "car-type": "2P",
+                "time": "00:17",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "16/01/2016 23:26"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "17/01/2016 00:23"
+                }
+            }
+        }
+    },
+    "19/01/2016": {
+        "11:00": {
+            "20163519063510-512": {
+                "car-type": "2P",
+                "time": "11:45",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "19/01/2016 11:25"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "19/01/2016 11:50"
+                }
+            }
+        }
+    },
+    "21/01/2016": {
+        "10:00": {
+            "20163821073807-579": {
+                "car-type": "2P",
+                "time": "10:58",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "21/01/2016 10:28"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "21/01/2016 11:03"
+                }
+            }
+        },
+        "17:00": {
+            "20162021032007-425": {
+                "car-type": "2P",
+                "time": "17:47",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "21/01/2016 17:43"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "21/01/2016 18:00"
+                }
+            }
+        },
+        "18:00": {
+            "20162021032007-425": {
+                "car-type": "2P",
+                "time": "18:00",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "21/01/2016 17:47"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "21/01/2016 18:05"
+                }
+            }
+        }
+    },
+    "24/01/2016": {
+        "19:00": {
+            "20164124044125-818": {
+                "car-type": "2P",
+                "time": "19:32",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "24/01/2016 19:26"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/01/2016 20:07"
+                }
+            }
+        },
+        "20:00": {
+            "20164124044125-818": {
+                "car-type": "2P",
+                "time": "20:07",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/01/2016 19:32"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "24/01/2016 20:13"
+                }
+            }
+        }
+    },
+    "27/01/2016": {
+        "09:00": {
+            "20160827070804-996": {
+                "car-type": "2P",
+                "time": "09:26",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "27/01/2016 09:20"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "27/01/2016 10:18"
+                }
+            }
+        },
+        "10:00": {
+            "20160827070804-996": {
+                "car-type": "2P",
+                "time": "10:18",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "27/01/2016 09:26"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "27/01/2016 10:23"
+                }
+            }
+        },
+        "16:00": {
+            "20162427022429-757": {
+                "car-type": "2P",
+                "time": "16:30",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "27/01/2016 16:24"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "27/01/2016 17:05"
+                }
+            }
+        },
+        "17:00": {
+            "20162427022429-757": {
+                "car-type": "2P",
+                "time": "17:05",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "27/01/2016 16:30"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "27/01/2016 17:10"
+                }
+            }
+        }
+    },
+    "28/01/2016": {
+        "19:00": {
+            "20162028052036-52": {
+                "car-type": "2P",
+                "time": "19:10",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "28/01/2016 19:04"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "28/01/2016 20:02"
+                }
+            }
+        },
+        "20:00": {
+            "20162028052036-52": {
+                "car-type": "2P",
+                "time": "20:02",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "28/01/2016 19:10"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "28/01/2016 20:07"
+                }
+            }
+        }
+    },
+    "29/01/2016": {
+        "13:00": {
+            "20161429011440-821": {
+                "car-type": "2P",
+                "time": "13:58",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "29/01/2016 13:52"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "29/01/2016 14:08"
+                }
+            }
+        },
+        "14:00": {
+            "20161429011440-821": {
+                "car-type": "2P",
+                "time": "14:08",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "29/01/2016 13:58"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "29/01/2016 14:13"
+                }
+            }
+        }
+    },
+    "03/02/2016": {
+        "16:00": {
+            "20162903022936-454": {
+                "car-type": "2P",
+                "time": "16:50",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "03/02/2016 16:46"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "03/02/2016 17:13"
+                }
+            }
+        },
+        "17:00": {
+            "20162903022936-454": {
+                "car-type": "2P",
+                "time": "17:13",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "03/02/2016 16:50"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "03/02/2016 17:17"
+                }
+            }
+        }
+    },
+    "05/02/2016": {
+        "10:00": {
+            "20161705061752-939": {
+                "car-type": "2P",
+                "time": "10:51",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "05/02/2016 10:46"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/02/2016 11:39"
+                }
+            }
+        },
+        "11:00": {
+            "20161705061752-939": {
+                "car-type": "2P",
+                "time": "11:39",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/02/2016 10:51"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "05/02/2016 11:43"
+                }
+            }
+        }
+    },
+    "06/02/2016": {
+        "17:00": {
+            "20162106032137-66": {
+                "car-type": "2P",
+                "time": "17:50",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "06/02/2016 17:45"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/02/2016 18:22"
+                }
+            }
+        },
+        "18:00": {
+            "20162106032137-66": {
+                "car-type": "2P",
+                "time": "18:22",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/02/2016 17:50"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "06/02/2016 18:26"
+                }
+            }
+        }
+    },
+    "13/02/2016": {
+        "07:00": {
+            "20165413065453-457": {
+                "car-type": "2P",
+                "time": "07:42",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "13/02/2016 07:36"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/02/2016 08:20"
+                }
+            }
+        },
+        "08:00": {
+            "20165413065453-457": {
+                "car-type": "2P",
+                "time": "08:20",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/02/2016 07:42"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/02/2016 08:20"
+                }
+            }
+        },
+        "09:00": {
+            "20165413065453-457": {
+                "car-type": "2P",
+                "time": "09:11",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/02/2016 08:20"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "13/02/2016 09:16"
+                }
+            }
+        }
+    },
+    "14/02/2016": {
+        "15:00": {
+            "20161614121624-859": {
+                "car-type": "2P",
+                "time": "15:23",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "14/02/2016 15:18"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "14/02/2016 16:13"
+                }
+            }
+        },
+        "16:00": {
+            "20161614121624-859": {
+                "car-type": "2P",
+                "time": "16:13",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "14/02/2016 15:23"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "14/02/2016 16:18"
+                }
+            }
+        }
+    },
+    "15/02/2016": {
+        "10:00": {
+            "20165415075414-121": {
+                "car-type": "2P",
+                "time": "10:30",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/02/2016 10:16"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/02/2016 10:34"
+                }
+            }
+        }
+    },
+    "17/02/2016": {
+        "19:00": {
+            "20164517024530-84": {
+                "car-type": "2P",
+                "time": "19:40",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "17/02/2016 19:22"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "17/02/2016 19:45"
+                }
+            }
+        }
+    },
+    "18/02/2016": {
+        "15:00": {
+            "20165118025121-645": {
+                "car-type": "2P",
+                "time": "15:34",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "18/02/2016 15:29"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "18/02/2016 16:25"
+                }
+            }
+        },
+        "16:00": {
+            "20165118025121-645": {
+                "car-type": "2P",
+                "time": "16:25",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "18/02/2016 15:34"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "18/02/2016 16:25"
+                }
+            }
+        },
+        "17:00": {
+            "20165118025121-645": {
+                "car-type": "2P",
+                "time": "17:04",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "18/02/2016 16:25"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "18/02/2016 17:10"
+                }
+            }
+        }
+    },
+    "21/02/2016": {
+        "17:00": {
+            "20164321034331-854": {
+                "car-type": "2P",
+                "time": "17:43",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "21/02/2016 17:34"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "21/02/2016 17:48"
+                }
+            }
+        }
+    },
+    "22/02/2016": {
+        "09:00": {
+            "20160522070509-90": {
+                "car-type": "2P",
+                "time": "09:50",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "22/02/2016 09:07"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "22/02/2016 09:54"
+                }
+            }
+        }
+    },
+    "26/02/2016": {
+        "14:00": {
+            "20161526101546-346": {
+                "car-type": "2P",
+                "time": "14:53",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/02/2016 14:39"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "26/02/2016 14:58"
+                }
+            }
+        }
+    },
+    "27/02/2016": {
+        "16:00": {
+            "20161627021649-751": {
+                "car-type": "2P",
+                "time": "16:47",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "27/02/2016 16:42"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "27/02/2016 16:51"
+                }
+            }
+        }
+    },
+    "28/02/2016": {
+        "16:00": {
+            "20163228103212-370": {
+                "car-type": "2P",
+                "time": "16:53",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "28/02/2016 16:20"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "28/02/2016 16:57"
+                }
+            }
+        }
+    },
+    "01/03/2016": {
+        "14:00": {
+            "20160801100858-954": {
+                "car-type": "2P",
+                "time": "14:51",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "01/03/2016 14:46"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "01/03/2016 15:15"
+                }
+            }
+        },
+        "15:00": {
+            "20160801100858-954": {
+                "car-type": "2P",
+                "time": "15:15",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "01/03/2016 14:51"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "01/03/2016 15:19"
+                }
+            }
+        }
+    },
+    "04/03/2016": {
+        "15:00": {
+            "20163504123558-966": {
+                "car-type": "2P",
+                "time": "15:52",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/03/2016 15:38"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "04/03/2016 15:57"
+                }
+            }
+        }
+    },
+    "05/03/2016": {
+        "13:00": {
+            "20160705080752-968": {
+                "car-type": "2P",
+                "time": "13:23",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/03/2016 13:05"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "05/03/2016 13:27"
+                }
+            }
+        }
+    },
+    "06/03/2016": {
+        "15:00": {
+            "20163406023455-436": {
+                "car-type": "2P",
+                "time": "15:19",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/03/2016 15:18"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "06/03/2016 15:24"
+                }
+            }
+        }
+    },
+    "07/03/2016": {
+        "19:00": {
+            "20161307051323-788": {
+                "car-type": "2P",
+                "time": "19:36",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "07/03/2016 19:31"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "07/03/2016 19:41"
+                }
+            }
+        }
+    },
+    "08/03/2016": {
+        "17:00": {
+            "20161608111648-744": {
+                "car-type": "2P",
+                "time": "17:16",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "08/03/2016 17:06"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "08/03/2016 17:21"
+                }
+            }
+        }
+    },
+    "09/03/2016": {
+        "19:00": {
+            "20164209024218-716": {
+                "car-type": "2P",
+                "time": "19:59",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "09/03/2016 19:53"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/03/2016 20:19"
+                }
+            }
+        },
+        "20:00": {
+            "20164209024218-716": {
+                "car-type": "2P",
+                "time": "20:19",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/03/2016 19:59"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "09/03/2016 20:24"
+                }
+            }
+        }
+    },
+    "11/03/2016": {
+        "17:00": {
+            "20161811041813-454": {
+                "car-type": "2P",
+                "time": "17:21",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/03/2016 17:03"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "11/03/2016 17:26"
+                }
+            }
+        }
+    },
+    "12/03/2016": {
+        "12:00": {
+            "20163612093621-781": {
+                "car-type": "2P",
+                "time": "12:39",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "12/03/2016 12:34"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/03/2016 13:03"
+                }
+            }
+        },
+        "13:00": {
+            "20163612093621-781": {
+                "car-type": "2P",
+                "time": "13:03",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/03/2016 12:39"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "12/03/2016 13:08"
+                }
+            }
+        }
+    },
+    "13/03/2016": {
+        "06:00": {
+            "20161213061238-98": {
+                "car-type": "2P",
+                "time": "06:59",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "13/03/2016 06:53"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/03/2016 07:14"
+                }
+            }
+        },
+        "07:00": {
+            "20161213061238-98": {
+                "car-type": "2P",
+                "time": "07:14",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/03/2016 06:59"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "13/03/2016 07:19"
+                }
+            }
+        }
+    },
+    "15/03/2016": {
+        "19:00": {
+            "20163915053916-246": {
+                "car-type": "2P",
+                "time": "19:49",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "15/03/2016 19:44"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/03/2016 20:20"
+                }
+            }
+        },
+        "20:00": {
+            "20163915053916-246": {
+                "car-type": "2P",
+                "time": "20:20",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/03/2016 19:49"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/03/2016 20:25"
+                }
+            }
+        }
+    },
+    "18/03/2016": {
+        "11:00": {
+            "20161218061229-69": {
+                "car-type": "2P",
+                "time": "11:48",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "18/03/2016 11:42"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "18/03/2016 12:00"
+                }
+            }
+        },
+        "12:00": {
+            "20161218061229-69": {
+                "car-type": "2P",
+                "time": "12:00",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "18/03/2016 11:48"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "18/03/2016 12:05"
+                }
+            }
+        }
+    },
+    "24/03/2016": {
+        "14:00": {
+            "20162024012032-116": {
+                "car-type": "2P",
+                "time": "14:20",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/03/2016 14:02"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "24/03/2016 14:24"
+                }
+            }
+        }
+    },
+    "26/03/2016": {
+        "17:00": {
+            "20160226030201-278": {
+                "car-type": "2P",
+                "time": "17:40",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "26/03/2016 17:20"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "26/03/2016 17:45"
+                }
+            }
+        }
+    },
+    "28/03/2016": {
+        "09:00": {
+            "20161128071109-682": {
+                "car-type": "2P",
+                "time": "09:39",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "28/03/2016 09:35"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "28/03/2016 10:02"
+                }
+            }
+        },
+        "10:00": {
+            "20161128071109-682": {
+                "car-type": "2P",
+                "time": "10:02",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "28/03/2016 09:39"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "28/03/2016 10:07"
+                }
+            }
+        }
+    },
+    "30/03/2016": {
+        "16:00": {
+            "20164330114332-71": {
+                "car-type": "2P",
+                "time": "16:22",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "30/03/2016 16:16"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "30/03/2016 17:10"
+                }
+            }
+        },
+        "17:00": {
+            "20164330114332-71": {
+                "car-type": "2P",
+                "time": "17:10",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "30/03/2016 16:22"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "30/03/2016 17:15"
+                }
+            }
+        }
+    },
+    "04/04/2016": {
+        "19:00": {
+            "20162704042737-375": {
+                "car-type": "2P",
+                "time": "19:30",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "04/04/2016 19:06"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "04/04/2016 19:35"
+                }
+            }
+        }
+    },
+    "05/04/2016": {
+        "16:00": {
+            "20162305022313-579": {
+                "car-type": "2P",
+                "time": "16:58",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/04/2016 16:00"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "05/04/2016 17:03"
+                }
+            }
+        }
+    },
+    "06/04/2016": {
+        "11:00": {
+            "20160506110549-199": {
+                "car-type": "2P",
+                "time": "11:47",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "06/04/2016 11:42"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/04/2016 12:39"
+                }
+            }
+        },
+        "12:00": {
+            "20160506110549-199": {
+                "car-type": "2P",
+                "time": "12:39",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/04/2016 11:47"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "06/04/2016 12:44"
+                }
+            }
+        }
+    },
+    "08/04/2016": {
+        "08:00": {
+            "20163008073021-288": {
+                "car-type": "2P",
+                "time": "08:13",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "08/04/2016 08:11"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "08/04/2016 08:18"
+                }
+            }
+        }
+    },
+    "11/04/2016": {
+        "12:00": {
+            "20164311084358-550": {
+                "car-type": "2P",
+                "time": "12:59",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "11/04/2016 12:36"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "11/04/2016 13:04"
+                }
+            }
+        }
+    },
+    "12/04/2016": {
+        "12:00": {
+            "20160212120238-276": {
+                "car-type": "2P",
+                "time": "12:54",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/04/2016 12:50"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "12/04/2016 12:59"
+                }
+            }
+        }
+    },
+    "14/04/2016": {
+        "23:00": {
+            "20163514053531-774": {
+                "car-type": "2P",
+                "time": "23:12",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "14/04/2016 23:07"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/04/2016 00:12"
+                }
+            }
+        }
+    },
+    "15/04/2016": {
+        "00:00": {
+            "20163514053531-774": {
+                "car-type": "2P",
+                "time": "00:12",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "14/04/2016 23:12"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/04/2016 00:17"
+                }
+            }
+        },
+        "15:00": {
+            "20165815125832-355": {
+                "car-type": "2P",
+                "time": "15:49",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "15/04/2016 15:23"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "15/04/2016 15:54"
+                }
+            }
+        }
+    },
+    "16/04/2016": {
+        "17:00": {
+            "20162216052205-711": {
+                "car-type": "2P",
+                "time": "17:59",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "16/04/2016 17:55"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "16/04/2016 18:34"
+                }
+            }
+        },
+        "18:00": {
+            "20162216052205-711": {
+                "car-type": "2P",
+                "time": "18:34",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "16/04/2016 17:59"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "16/04/2016 18:38"
+                }
+            }
+        }
+    },
+    "23/04/2016": {
+        "11:00": {
+            "20162723092727-776": {
+                "car-type": "2P",
+                "time": "11:53",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "23/04/2016 11:04"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "23/04/2016 11:57"
+                }
+            }
+        }
+    },
+    "24/04/2016": {
+        "14:00": {
+            "20161124091131-859": {
+                "car-type": "2P",
+                "time": "14:43",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "24/04/2016 14:37"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/04/2016 15:31"
+                }
+            }
+        },
+        "15:00": {
+            "20161124091131-859": {
+                "car-type": "2P",
+                "time": "15:31",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/04/2016 14:43"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "24/04/2016 15:36"
+                }
+            }
+        },
+        "19:00": {
+            "20165724055723-178": {
+                "car-type": "2P",
+                "time": "19:55",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "24/04/2016 19:14"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "24/04/2016 20:01"
+                }
+            }
+        }
+    },
+    "01/05/2016": {
+        "14:00": {
+            "20164601074606-428": {
+                "car-type": "2P",
+                "time": "14:20",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "01/05/2016 14:14"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "01/05/2016 15:00"
+                }
+            }
+        },
+        "15:00": {
+            "20164601074606-428": {
+                "car-type": "2P",
+                "time": "15:00",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "01/05/2016 14:20"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "01/05/2016 15:05"
+                }
+            }
+        }
+    },
+    "02/05/2016": {
+        "14:00": {
+            "20161402121456-190": {
+                "car-type": "2P",
+                "time": "14:51",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "02/05/2016 14:46"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "02/05/2016 15:51"
+                }
+            }
+        },
+        "15:00": {
+            "20161402121456-190": {
+                "car-type": "2P",
+                "time": "15:51",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "02/05/2016 14:51"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "02/05/2016 15:56"
+                }
+            }
+        }
+    },
+    "05/05/2016": {
+        "17:00": {
+            "20161205051258-561": {
+                "car-type": "2P",
+                "time": "17:51",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "05/05/2016 17:46"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/05/2016 18:46"
+                }
+            }
+        },
+        "18:00": {
+            "20161205051258-561": {
+                "car-type": "2P",
+                "time": "18:46",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "05/05/2016 17:51"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "05/05/2016 18:50"
+                }
+            }
+        }
+    },
+    "06/05/2016": {
+        "15:00": {
+            "20165606125656-970": {
+                "car-type": "2P",
+                "time": "15:39",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "06/05/2016 15:10"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "06/05/2016 15:44"
+                }
+            }
+        }
+    },
+    "09/05/2016": {
+        "08:00": {
+            "20164909064918-425": {
+                "car-type": "2P",
+                "time": "08:26",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "09/05/2016 08:22"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/05/2016 09:07"
+                }
+            }
+        },
+        "09:00": {
+            "20164909064918-425": {
+                "car-type": "2P",
+                "time": "09:07",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "09/05/2016 08:26"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "09/05/2016 09:12"
+                }
+            }
+        }
+    },
+    "12/05/2016": {
+        "17:00": {
+            "20164012024030-921": {
+                "car-type": "2P",
+                "time": "17:58",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "12/05/2016 17:44"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "12/05/2016 18:04"
+                }
+            }
+        }
+    },
+    "13/05/2016": {
+        "11:00": {
+            "20164013084042-356": {
+                "car-type": "2P",
+                "time": "11:40",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "13/05/2016 11:36"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/05/2016 12:17"
+                }
+            }
+        },
+        "12:00": {
+            "20164013084042-356": {
+                "car-type": "2P",
+                "time": "12:17",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/05/2016 11:40"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "13/05/2016 12:22"
+                }
+            }
+        },
+        "19:00": {
+            "20162513022506-280": {
+                "car-type": "2P",
+                "time": "19:35",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "13/05/2016 19:17"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "13/05/2016 19:40"
+                }
+            }
+        }
+    },
+    "18/05/2016": {
+        "20:00": {
+            "20165418055416-803": {
+                "car-type": "2P",
+                "time": "20:50",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "18/05/2016 20:44"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "18/05/2016 21:44"
+                }
+            }
+        },
+        "21:00": {
+            "20165418055416-803": {
+                "car-type": "2P",
+                "time": "21:44",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "18/05/2016 20:50"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "18/05/2016 21:49"
+                }
+            }
+        }
+    },
+    "19/05/2016": {
+        "14:00": {
+            "20161219011251-7": {
+                "car-type": "2P",
+                "time": "14:33",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "19/05/2016 14:04"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "19/05/2016 14:37"
+                }
+            }
+        },
+        "19:00": {
+            "20163819043858-296": {
+                "car-type": "2P",
+                "time": "19:26",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "19/05/2016 19:25"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "19/05/2016 19:31"
+                }
+            }
+        },
+        "23:00": {
+            "20165119055140-532": {
+                "car-type": "2P",
+                "time": "23:34",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "19/05/2016 23:15"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "19/05/2016 23:40"
+                }
+            }
+        }
+    },
+    "20/05/2016": {
+        "09:00": {
+            "20160520070545-547": {
+                "car-type": "2P",
+                "time": "09:36",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "20/05/2016 09:21"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "20/05/2016 09:41"
+                }
+            }
+        }
+    },
+    "25/05/2016": {
+        "14:00": {
+            "20165425105450-12": {
+                "car-type": "2P",
+                "time": "14:11",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "25/05/2016 14:07"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "25/05/2016 14:17"
+                }
+            }
+        }
+    },
+    "29/05/2016": {
+        "14:00": {
+            "20162929122944-542": {
+                "car-type": "2P",
+                "time": "14:50",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "29/05/2016 14:45"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "29/05/2016 15:45"
+                }
+            }
+        },
+        "15:00": {
+            "20162929122944-542": {
+                "car-type": "2P",
+                "time": "15:45",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "29/05/2016 14:50"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "29/05/2016 15:49"
+                }
+            }
+        }
+    },
+    "30/05/2016": {
+        "13:00": {
+            "20161730081727-734": {
+                "car-type": "2P",
+                "time": "13:49",
+                "previous": {
+                    "gate": "gate2",
+                    "timestamp": "30/05/2016 13:43"
+                },
+                "next": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "30/05/2016 14:12"
+                }
+            }
+        },
+        "14:00": {
+            "20161730081727-734": {
+                "car-type": "2P",
+                "time": "14:12",
+                "previous": {
+                    "gate": "ranger-stop1",
+                    "timestamp": "30/05/2016 13:49"
+                },
+                "next": {
+                    "gate": "gate2",
+                    "timestamp": "30/05/2016 14:17"
+                }
+            }
+        }
+    }
+}

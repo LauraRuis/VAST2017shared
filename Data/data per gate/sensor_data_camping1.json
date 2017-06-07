@@ -1,0 +1,3432 @@
+{
+    "04/05/2015": {
+        "15:00": {
+            "20150604030648-583": {
+                "car-type": "1",
+                "time": "15:56",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "04/05/2015 15:49"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "04/05/2015 15:56"
+                }
+            }
+        }
+    },
+    "06/05/2015": {
+        "15:00": {
+            "20151406031406-139": {
+                "car-type": "3",
+                "time": "15:36",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "06/05/2015 15:35"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "06/05/2015 15:43"
+                }
+            }
+        }
+    },
+    "08/05/2015": {
+        "08:00": {
+            "20151308081312-606": {
+                "car-type": "1",
+                "time": "08:50",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "08/05/2015 08:43"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "08/05/2015 12:50"
+                }
+            },
+            "20155308075334-739": {
+                "car-type": "1",
+                "time": "08:50",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "08/05/2015 08:42"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "08/05/2015 10:38"
+                }
+            }
+        },
+        "10:00": {
+            "20155308075334-739": {
+                "car-type": "1",
+                "time": "10:38",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "08/05/2015 08:50"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "08/05/2015 10:46"
+                }
+            }
+        },
+        "12:00": {
+            "20151308081312-606": {
+                "car-type": "1",
+                "time": "12:50",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "08/05/2015 08:50"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "08/05/2015 12:57"
+                }
+            }
+        }
+    },
+    "16/05/2015": {
+        "09:00": {
+            "20154916084939-496": {
+                "car-type": "2P",
+                "time": "09:51",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "16/05/2015 09:10"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "16/05/2015 09:59"
+                }
+            }
+        }
+    },
+    "24/05/2015": {
+        "10:00": {
+            "20152724102747-37": {
+                "car-type": "3",
+                "time": "10:47",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "24/05/2015 10:41"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "24/05/2015 10:47"
+                }
+            }
+        }
+    },
+    "26/05/2015": {
+        "07:00": {
+            "20155326065330-762": {
+                "car-type": "2",
+                "time": "07:36",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "26/05/2015 07:28"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "26/05/2015 11:00"
+                }
+            }
+        },
+        "11:00": {
+            "20155326065330-762": {
+                "car-type": "2",
+                "time": "11:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "26/05/2015 07:36"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "26/05/2015 11:07"
+                }
+            }
+        }
+    },
+    "02/06/2015": {
+        "08:00": {
+            "20151502081513-909": {
+                "car-type": "1",
+                "time": "08:58",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "02/06/2015 08:50"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "02/06/2015 08:58"
+                }
+            }
+        }
+    },
+    "03/06/2015": {
+        "15:00": {
+            "20155403025439-26": {
+                "car-type": "2",
+                "time": "15:16",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "03/06/2015 15:08"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "03/06/2015 15:16"
+                }
+            }
+        }
+    },
+    "04/06/2015": {
+        "06:00": {
+            "20154404054415-713": {
+                "car-type": "1",
+                "time": "06:23",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "04/06/2015 06:16"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "04/06/2015 09:00"
+                }
+            }
+        },
+        "09:00": {
+            "20154404054415-713": {
+                "car-type": "1",
+                "time": "09:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "04/06/2015 06:23"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "04/06/2015 09:06"
+                }
+            }
+        }
+    },
+    "05/06/2015": {
+        "11:00": {
+            "20153705103735-214": {
+                "car-type": "1",
+                "time": "11:25",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "05/06/2015 11:24"
+                },
+                "next": {
+                    "gate": "entrance2",
+                    "timestamp": "05/06/2015 11:40"
+                }
+            }
+        }
+    },
+    "06/06/2015": {
+        "09:00": {
+            "20151506091506-255": {
+                "car-type": "2",
+                "time": "09:53",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "06/06/2015 09:46"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "12/06/2015 18:10"
+                }
+            }
+        },
+        "10:00": {
+            "20153906103944-585": {
+                "car-type": "3",
+                "time": "10:57",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "06/06/2015 10:49"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "06/06/2015 10:57"
+                }
+            }
+        }
+    },
+    "08/06/2015": {
+        "12:00": {
+            "20153408123414-956": {
+                "car-type": "3",
+                "time": "12:53",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "08/06/2015 12:45"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "08/06/2015 12:53"
+                }
+            }
+        }
+    },
+    "10/06/2015": {
+        "13:00": {
+            "20151210121248-239": {
+                "car-type": "1",
+                "time": "13:02",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "10/06/2015 12:55"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "11/06/2015 20:53"
+                }
+            }
+        },
+        "19:00": {
+            "20154110054139-862": {
+                "car-type": "2P",
+                "time": "19:03",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "10/06/2015 19:02"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "10/06/2015 19:12"
+                }
+            }
+        }
+    },
+    "11/06/2015": {
+        "20:00": {
+            "20151210121248-239": {
+                "car-type": "1",
+                "time": "20:53",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "10/06/2015 13:02"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "11/06/2015 21:00"
+                }
+            }
+        }
+    },
+    "12/06/2015": {
+        "18:00": {
+            "20151506091506-255": {
+                "car-type": "2",
+                "time": "18:10",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "06/06/2015 09:53"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "12/06/2015 18:17"
+                }
+            }
+        }
+    },
+    "13/06/2015": {
+        "06:00": {
+            "20155513055541-893": {
+                "car-type": "1",
+                "time": "06:15",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "13/06/2015 06:06"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "13/06/2015 09:00"
+                }
+            }
+        },
+        "09:00": {
+            "20155513055541-893": {
+                "car-type": "1",
+                "time": "09:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "13/06/2015 06:15"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "13/06/2015 09:07"
+                }
+            },
+            "20151913091934-158": {
+                "car-type": "1",
+                "time": "09:38",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "13/06/2015 09:30"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "13/06/2015 10:21"
+                }
+            }
+        },
+        "10:00": {
+            "20151913091934-158": {
+                "car-type": "1",
+                "time": "10:21",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "13/06/2015 09:38"
+                },
+                "next": {
+                    "gate": "camping8",
+                    "timestamp": "13/06/2015 10:39"
+                }
+            }
+        }
+    },
+    "14/06/2015": {
+        "09:00": {
+            "20152114092105-596": {
+                "car-type": "1",
+                "time": "09:43",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "14/06/2015 09:42"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "14/06/2015 09:50"
+                }
+            }
+        }
+    },
+    "16/06/2015": {
+        "11:00": {
+            "20154716104703-895": {
+                "car-type": "2",
+                "time": "11:35",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "16/06/2015 11:28"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "16/06/2015 11:35"
+                }
+            }
+        }
+    },
+    "19/06/2015": {
+        "13:00": {
+            "20150719010726-439": {
+                "car-type": "1",
+                "time": "13:24",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "19/06/2015 13:16"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "19/06/2015 13:24"
+                }
+            }
+        }
+    },
+    "21/06/2015": {
+        "12:00": {
+            "20153721123707-721": {
+                "car-type": "1",
+                "time": "12:58",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "21/06/2015 12:51"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "21/06/2015 12:58"
+                }
+            }
+        },
+        "15:00": {
+            "20154921024932-399": {
+                "car-type": "1",
+                "time": "15:27",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "21/06/2015 15:20"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "21/06/2015 15:27"
+                }
+            }
+        },
+        "16:00": {
+            "20155221035222-673": {
+                "car-type": "1",
+                "time": "16:16",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "21/06/2015 16:08"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "21/06/2015 16:16"
+                }
+            }
+        }
+    },
+    "22/06/2015": {
+        "05:00": {
+            "20150922050932-615": {
+                "car-type": "1",
+                "time": "05:28",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "22/06/2015 05:19"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "22/06/2015 15:00"
+                }
+            }
+        },
+        "15:00": {
+            "20150922050932-615": {
+                "car-type": "1",
+                "time": "15:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "22/06/2015 05:28"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "22/06/2015 15:07"
+                }
+            }
+        }
+    },
+    "23/06/2015": {
+        "06:00": {
+            "20150523060517-30": {
+                "car-type": "1",
+                "time": "06:55",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "23/06/2015 06:50"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "23/06/2015 07:03"
+                }
+            }
+        },
+        "09:00": {
+            "20151323091349-479": {
+                "car-type": "1",
+                "time": "09:34",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "23/06/2015 09:27"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "23/06/2015 12:00"
+                }
+            }
+        },
+        "11:00": {
+            "20150923110937-484": {
+                "car-type": "1",
+                "time": "11:51",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "23/06/2015 11:44"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "23/06/2015 11:51"
+                }
+            }
+        },
+        "12:00": {
+            "20151323091349-479": {
+                "car-type": "1",
+                "time": "12:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "23/06/2015 09:34"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "23/06/2015 12:06"
+                }
+            }
+        },
+        "13:00": {
+            "20153023013052-129": {
+                "car-type": "1",
+                "time": "13:56",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "23/06/2015 13:55"
+                },
+                "next": {
+                    "gate": "entrance2",
+                    "timestamp": "23/06/2015 14:15"
+                }
+            }
+        },
+        "15:00": {
+            "20152723022703-590": {
+                "car-type": "1",
+                "time": "15:14",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "23/06/2015 15:07"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "06/07/2015 08:08"
+                }
+            }
+        }
+    },
+    "24/06/2015": {
+        "06:00": {
+            "20152824052835-224": {
+                "car-type": "1",
+                "time": "06:07",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "24/06/2015 06:00"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "24/06/2015 06:07"
+                }
+            }
+        }
+    },
+    "25/06/2015": {
+        "06:00": {
+            "20151025061010-490": {
+                "car-type": "2",
+                "time": "06:26",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "25/06/2015 06:10"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "25/06/2015 09:52"
+                }
+            }
+        },
+        "09:00": {
+            "20151025061010-490": {
+                "car-type": "2",
+                "time": "09:52",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "25/06/2015 06:26"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "25/06/2015 09:59"
+                }
+            }
+        },
+        "11:00": {
+            "20150125110117-319": {
+                "car-type": "1",
+                "time": "11:17",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "25/06/2015 11:01"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "25/06/2015 11:17"
+                }
+            }
+        }
+    },
+    "28/06/2015": {
+        "09:00": {
+            "20151428081416-477": {
+                "car-type": "2",
+                "time": "09:09",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "28/06/2015 09:08"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "28/06/2015 09:16"
+                }
+            }
+        },
+        "11:00": {
+            "20152828112812-119": {
+                "car-type": "1",
+                "time": "11:45",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "28/06/2015 11:28"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "28/06/2015 15:11"
+                }
+            }
+        },
+        "13:00": {
+            "20153928123900-472": {
+                "car-type": "1",
+                "time": "13:02",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "28/06/2015 12:54"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "28/06/2015 13:02"
+                }
+            },
+            "20153728013721-249": {
+                "car-type": "2",
+                "time": "13:54",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "28/06/2015 13:37"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "28/06/2015 13:54"
+                }
+            }
+        },
+        "15:00": {
+            "20152828112812-119": {
+                "car-type": "1",
+                "time": "15:11",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "28/06/2015 11:45"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "28/06/2015 15:18"
+                }
+            }
+        },
+        "17:00": {
+            "20150028050007-273": {
+                "car-type": "2",
+                "time": "17:23",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "28/06/2015 17:15"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "28/06/2015 20:43"
+                }
+            }
+        },
+        "20:00": {
+            "20150028050007-273": {
+                "car-type": "2",
+                "time": "20:43",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "28/06/2015 17:23"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "28/06/2015 20:51"
+                }
+            }
+        }
+    },
+    "01/07/2015": {
+        "08:00": {
+            "20154501074509-749": {
+                "car-type": "1",
+                "time": "08:36",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "01/07/2015 08:29"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "01/07/2015 08:36"
+                }
+            }
+        },
+        "09:00": {
+            "20151001091034-497": {
+                "car-type": "1",
+                "time": "09:30",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "01/07/2015 09:23"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "05/07/2015 16:45"
+                }
+            }
+        },
+        "15:00": {
+            "20150201030218-279": {
+                "car-type": "1",
+                "time": "15:21",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "01/07/2015 15:20"
+                },
+                "next": {
+                    "gate": "entrance2",
+                    "timestamp": "01/07/2015 15:37"
+                }
+            }
+        }
+    },
+    "02/07/2015": {
+        "07:00": {
+            "20153202073212-725": {
+                "car-type": "1",
+                "time": "07:50",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "02/07/2015 07:42"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "02/07/2015 11:00"
+                }
+            }
+        },
+        "11:00": {
+            "20153202073212-725": {
+                "car-type": "1",
+                "time": "11:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "02/07/2015 07:50"
+                },
+                "next": {
+                    "gate": "entrance2",
+                    "timestamp": "02/07/2015 11:17"
+                }
+            }
+        }
+    },
+    "03/07/2015": {
+        "07:00": {
+            "20155203065229-254": {
+                "car-type": "3",
+                "time": "07:42",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "03/07/2015 07:35"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "03/07/2015 08:00"
+                }
+            }
+        },
+        "08:00": {
+            "20155203065229-254": {
+                "car-type": "3",
+                "time": "08:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "03/07/2015 07:42"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "03/07/2015 08:07"
+                }
+            }
+        }
+    },
+    "05/07/2015": {
+        "14:00": {
+            "20152605012634-824": {
+                "car-type": "1",
+                "time": "14:14",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "05/07/2015 14:02"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "05/07/2015 14:21"
+                }
+            }
+        },
+        "15:00": {
+            "20155105025134-783": {
+                "car-type": "2",
+                "time": "15:30",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "05/07/2015 15:23"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "05/07/2015 15:30"
+                }
+            }
+        },
+        "16:00": {
+            "20154705034728-645": {
+                "car-type": "1",
+                "time": "16:40",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "05/07/2015 16:32"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "05/07/2015 16:40"
+                }
+            },
+            "20151001091034-497": {
+                "car-type": "1",
+                "time": "16:45",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "01/07/2015 09:30"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "05/07/2015 16:52"
+                }
+            }
+        }
+    },
+    "06/07/2015": {
+        "08:00": {
+            "20152723022703-590": {
+                "car-type": "1",
+                "time": "08:08",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "23/06/2015 15:14"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "06/07/2015 08:16"
+                }
+            }
+        }
+    },
+    "07/07/2015": {
+        "09:00": {
+            "20150907090916-682": {
+                "car-type": "1",
+                "time": "09:26",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "07/07/2015 09:18"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "07/07/2015 11:00"
+                }
+            }
+        },
+        "11:00": {
+            "20150907090916-682": {
+                "car-type": "1",
+                "time": "11:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "07/07/2015 09:26"
+                },
+                "next": {
+                    "gate": "entrance2",
+                    "timestamp": "07/07/2015 11:15"
+                }
+            }
+        },
+        "13:00": {
+            "20151807011836-906": {
+                "car-type": "2",
+                "time": "13:39",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "07/07/2015 13:32"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "07/07/2015 13:39"
+                }
+            }
+        },
+        "15:00": {
+            "20150807030856-626": {
+                "car-type": "3",
+                "time": "15:32",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "07/07/2015 15:24"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "07/07/2015 15:32"
+                }
+            }
+        }
+    },
+    "08/07/2015": {
+        "05:00": {
+            "20152608052615-214": {
+                "car-type": "1",
+                "time": "05:49",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "08/07/2015 05:48"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "08/07/2015 05:56"
+                }
+            }
+        },
+        "10:00": {
+            "20154108094103-458": {
+                "car-type": "1",
+                "time": "10:01",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "08/07/2015 09:54"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "08/07/2015 10:01"
+                }
+            }
+        },
+        "11:00": {
+            "20152408112419-449": {
+                "car-type": "1",
+                "time": "11:44",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "08/07/2015 11:35"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "08/07/2015 11:44"
+                }
+            }
+        }
+    },
+    "09/07/2015": {
+        "14:00": {
+            "20155509015530-694": {
+                "car-type": "2",
+                "time": "14:10",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "09/07/2015 13:55"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "09/07/2015 14:10"
+                }
+            }
+        }
+    },
+    "10/07/2015": {
+        "08:00": {
+            "20154710074754-885": {
+                "car-type": "1",
+                "time": "08:08",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "10/07/2015 08:01"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "10/07/2015 12:00"
+                }
+            }
+        },
+        "12:00": {
+            "20154710074754-885": {
+                "car-type": "1",
+                "time": "12:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "10/07/2015 08:08"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "10/07/2015 12:06"
+                }
+            }
+        },
+        "16:00": {
+            "20151310041356-561": {
+                "car-type": "2",
+                "time": "16:29",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "10/07/2015 16:13"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "10/07/2015 16:29"
+                }
+            }
+        }
+    },
+    "12/07/2015": {
+        "17:00": {
+            "20153312043334-753": {
+                "car-type": "1",
+                "time": "17:14",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "12/07/2015 17:07"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "12/07/2015 17:14"
+                }
+            }
+        }
+    },
+    "13/07/2015": {
+        "15:00": {
+            "20151013031002-411": {
+                "car-type": "3",
+                "time": "15:26",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "13/07/2015 15:18"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "13/07/2015 15:26"
+                }
+            }
+        },
+        "16:00": {
+            "20151013041011-524": {
+                "car-type": "1",
+                "time": "16:25",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "13/07/2015 16:10"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "13/07/2015 19:41"
+                }
+            }
+        },
+        "19:00": {
+            "20151013041011-524": {
+                "car-type": "1",
+                "time": "19:41",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "13/07/2015 16:25"
+                },
+                "next": {
+                    "gate": "camping8",
+                    "timestamp": "13/07/2015 19:56"
+                }
+            }
+        }
+    },
+    "14/07/2015": {
+        "16:00": {
+            "20151814031806-332": {
+                "car-type": "3",
+                "time": "16:02",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "14/07/2015 15:54"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "14/07/2015 16:02"
+                }
+            }
+        },
+        "17:00": {
+            "20154414044430-854": {
+                "car-type": "1",
+                "time": "17:05",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "14/07/2015 16:58"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "14/07/2015 17:05"
+                }
+            }
+        }
+    },
+    "15/07/2015": {
+        "10:00": {
+            "20154915094902-140": {
+                "car-type": "1",
+                "time": "10:26",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "15/07/2015 10:19"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "15/07/2015 10:26"
+                }
+            }
+        },
+        "11:00": {
+            "20152515102557-50": {
+                "car-type": "1",
+                "time": "11:21",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "15/07/2015 11:13"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "15/07/2015 11:21"
+                }
+            }
+        }
+    },
+    "16/07/2015": {
+        "12:00": {
+            "20152716122736-950": {
+                "car-type": "1",
+                "time": "12:47",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "16/07/2015 12:40"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "20/07/2015 13:15"
+                }
+            }
+        },
+        "14:00": {
+            "20155916015917-666": {
+                "car-type": "1",
+                "time": "14:37",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "16/07/2015 14:30"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "21/07/2015 12:43"
+                }
+            }
+        }
+    },
+    "17/07/2015": {
+        "07:00": {
+            "20155117065115-489": {
+                "car-type": "3",
+                "time": "07:48",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "17/07/2015 07:11"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "17/07/2015 07:55"
+                }
+            }
+        },
+        "09:00": {
+            "20155717085756-850": {
+                "car-type": "1",
+                "time": "09:14",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "17/07/2015 08:57"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "17/07/2015 09:14"
+                }
+            }
+        },
+        "18:00": {
+            "20155517055510-758": {
+                "car-type": "2",
+                "time": "18:10",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "17/07/2015 17:55"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "17/07/2015 21:58"
+                }
+            }
+        },
+        "21:00": {
+            "20155517055510-758": {
+                "car-type": "2",
+                "time": "21:58",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "17/07/2015 18:10"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "17/07/2015 22:05"
+                }
+            }
+        }
+    },
+    "20/07/2015": {
+        "08:00": {
+            "20155820075838-714": {
+                "car-type": "1",
+                "time": "08:21",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "20/07/2015 08:14"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "20/07/2015 12:12"
+                }
+            }
+        },
+        "09:00": {
+            "20153720093737-980": {
+                "car-type": "1",
+                "time": "09:58",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "20/07/2015 09:57"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "20/07/2015 10:04"
+                }
+            }
+        },
+        "12:00": {
+            "20155820075838-714": {
+                "car-type": "1",
+                "time": "12:12",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "20/07/2015 08:21"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "20/07/2015 12:19"
+                }
+            }
+        },
+        "13:00": {
+            "20152716122736-950": {
+                "car-type": "1",
+                "time": "13:15",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "16/07/2015 12:47"
+                },
+                "next": {
+                    "gate": "entrance2",
+                    "timestamp": "20/07/2015 13:31"
+                }
+            }
+        }
+    },
+    "21/07/2015": {
+        "09:00": {
+            "20152921082952-995": {
+                "car-type": "2",
+                "time": "09:09",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "21/07/2015 09:02"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "26/07/2015 12:34"
+                }
+            }
+        },
+        "12:00": {
+            "20155916015917-666": {
+                "car-type": "1",
+                "time": "12:43",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "16/07/2015 14:37"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "21/07/2015 12:50"
+                }
+            }
+        }
+    },
+    "22/07/2015": {
+        "08:00": {
+            "20154122074120-577": {
+                "car-type": "3",
+                "time": "08:27",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "22/07/2015 08:19"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "22/07/2015 08:27"
+                }
+            }
+        }
+    },
+    "23/07/2015": {
+        "09:00": {
+            "20153823093810-188": {
+                "car-type": "1",
+                "time": "09:58",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "23/07/2015 09:49"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "23/07/2015 09:58"
+                }
+            }
+        },
+        "13:00": {
+            "20154023014004-410": {
+                "car-type": "2",
+                "time": "13:57",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "23/07/2015 13:40"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "23/07/2015 13:57"
+                }
+            }
+        },
+        "17:00": {
+            "20155723045734-820": {
+                "car-type": "1",
+                "time": "17:38",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "23/07/2015 17:30"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "23/07/2015 18:48"
+                }
+            }
+        },
+        "18:00": {
+            "20155723045734-820": {
+                "car-type": "1",
+                "time": "18:48",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "23/07/2015 17:38"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "23/07/2015 18:55"
+                }
+            }
+        }
+    },
+    "24/07/2015": {
+        "07:00": {
+            "20152824072845-49": {
+                "car-type": "1",
+                "time": "07:47",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "24/07/2015 07:39"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "24/07/2015 09:00"
+                }
+            }
+        },
+        "09:00": {
+            "20152824072845-49": {
+                "car-type": "1",
+                "time": "09:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "24/07/2015 07:47"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "24/07/2015 09:08"
+                }
+            }
+        },
+        "11:00": {
+            "20155424105453-864": {
+                "car-type": "1",
+                "time": "11:14",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "24/07/2015 11:05"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "26/07/2015 22:14"
+                }
+            }
+        },
+        "14:00": {
+            "20155924015914-772": {
+                "car-type": "2",
+                "time": "14:47",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "24/07/2015 14:40"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "24/07/2015 15:25"
+                }
+            }
+        },
+        "15:00": {
+            "20155924015914-772": {
+                "car-type": "2",
+                "time": "15:25",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "24/07/2015 14:47"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "24/07/2015 15:32"
+                }
+            }
+        },
+        "16:00": {
+            "20150124040148-340": {
+                "car-type": "1",
+                "time": "16:20",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "24/07/2015 16:12"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "24/07/2015 16:20"
+                }
+            }
+        }
+    },
+    "25/07/2015": {
+        "12:00": {
+            "20150425120457-276": {
+                "car-type": "2",
+                "time": "12:25",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "25/07/2015 12:18"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "25/07/2015 12:25"
+                }
+            }
+        }
+    },
+    "26/07/2015": {
+        "12:00": {
+            "20152921082952-995": {
+                "car-type": "2",
+                "time": "12:34",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "21/07/2015 09:09"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "26/07/2015 12:42"
+                }
+            }
+        },
+        "15:00": {
+            "20154626024601-827": {
+                "car-type": "2",
+                "time": "15:06",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "26/07/2015 14:59"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "26/07/2015 15:06"
+                }
+            }
+        },
+        "22:00": {
+            "20155424105453-864": {
+                "car-type": "1",
+                "time": "22:14",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "24/07/2015 11:14"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "26/07/2015 22:22"
+                }
+            }
+        }
+    },
+    "28/07/2015": {
+        "06:00": {
+            "20153628063656-228": {
+                "car-type": "3",
+                "time": "06:56",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "28/07/2015 06:50"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "28/07/2015 07:44"
+                }
+            }
+        },
+        "07:00": {
+            "20153628063656-228": {
+                "car-type": "3",
+                "time": "07:44",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "28/07/2015 06:56"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "28/07/2015 07:51"
+                }
+            }
+        },
+        "08:00": {
+            "20154728074743-276": {
+                "car-type": "1",
+                "time": "08:24",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "28/07/2015 08:17"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "28/07/2015 08:24"
+                }
+            }
+        },
+        "16:00": {
+            "20154728034746-685": {
+                "car-type": "2",
+                "time": "16:04",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "28/07/2015 15:56"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "28/07/2015 19:42"
+                }
+            }
+        },
+        "19:00": {
+            "20154728034746-685": {
+                "car-type": "2",
+                "time": "19:42",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "28/07/2015 16:04"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "28/07/2015 19:48"
+                }
+            }
+        }
+    },
+    "29/07/2015": {
+        "13:00": {
+            "20151829011833-716": {
+                "car-type": "1",
+                "time": "13:54",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "29/07/2015 13:48"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "09/08/2015 13:34"
+                }
+            }
+        }
+    },
+    "30/07/2015": {
+        "06:00": {
+            "20155830055849-282": {
+                "car-type": "1",
+                "time": "06:34",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "30/07/2015 06:28"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "30/07/2015 09:00"
+                }
+            }
+        },
+        "09:00": {
+            "20155830055849-282": {
+                "car-type": "1",
+                "time": "09:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "30/07/2015 06:34"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "30/07/2015 09:06"
+                }
+            }
+        }
+    },
+    "31/07/2015": {
+        "08:00": {
+            "20153831083826-894": {
+                "car-type": "1",
+                "time": "08:57",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "31/07/2015 08:38"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "31/07/2015 12:00"
+                }
+            }
+        },
+        "12:00": {
+            "20153831083826-894": {
+                "car-type": "1",
+                "time": "12:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "31/07/2015 08:57"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "31/07/2015 12:08"
+                }
+            }
+        }
+    },
+    "03/08/2015": {
+        "16:00": {
+            "20155603035616-700": {
+                "car-type": "1",
+                "time": "16:19",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "03/08/2015 16:11"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "03/08/2015 16:19"
+                }
+            }
+        }
+    },
+    "04/08/2015": {
+        "14:00": {
+            "20155304015337-125": {
+                "car-type": "3",
+                "time": "14:47",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "04/08/2015 14:39"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "04/08/2015 14:47"
+                }
+            }
+        }
+    },
+    "06/08/2015": {
+        "10:00": {
+            "20153406103456-125": {
+                "car-type": "3",
+                "time": "10:53",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "06/08/2015 10:34"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "06/08/2015 10:53"
+                }
+            }
+        },
+        "12:00": {
+            "20154906114931-634": {
+                "car-type": "1",
+                "time": "12:08",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "06/08/2015 12:02"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "06/08/2015 12:08"
+                }
+            }
+        },
+        "17:00": {
+            "20155006045053-500": {
+                "car-type": "3",
+                "time": "17:48",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "06/08/2015 17:40"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "06/08/2015 17:48"
+                }
+            }
+        }
+    },
+    "07/08/2015": {
+        "17:00": {
+            "20152207052205-192": {
+                "car-type": "1",
+                "time": "17:39",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "07/08/2015 17:31"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "07/08/2015 19:03"
+                }
+            }
+        },
+        "19:00": {
+            "20152207052205-192": {
+                "car-type": "1",
+                "time": "19:03",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "07/08/2015 17:39"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "07/08/2015 19:10"
+                }
+            }
+        }
+    },
+    "08/08/2015": {
+        "09:00": {
+            "20154908084949-966": {
+                "car-type": "3",
+                "time": "09:13",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "08/08/2015 09:05"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "08/08/2015 09:13"
+                }
+            }
+        },
+        "14:00": {
+            "20150808020824-931": {
+                "car-type": "3",
+                "time": "14:24",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "08/08/2015 14:08"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "08/08/2015 14:24"
+                }
+            }
+        },
+        "17:00": {
+            "20153408043401-757": {
+                "car-type": "3",
+                "time": "17:29",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "08/08/2015 17:11"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "08/08/2015 17:36"
+                }
+            }
+        }
+    },
+    "09/08/2015": {
+        "13:00": {
+            "20151829011833-716": {
+                "car-type": "1",
+                "time": "13:34",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "29/07/2015 13:54"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "09/08/2015 13:40"
+                }
+            }
+        },
+        "15:00": {
+            "20150309030327-506": {
+                "car-type": "3",
+                "time": "15:18",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "09/08/2015 15:03"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "09/08/2015 18:17"
+                }
+            }
+        },
+        "18:00": {
+            "20150309030327-506": {
+                "car-type": "3",
+                "time": "18:17",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "09/08/2015 15:18"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "09/08/2015 18:23"
+                }
+            }
+        }
+    },
+    "10/08/2015": {
+        "06:00": {
+            "20154310054319-507": {
+                "car-type": "3",
+                "time": "06:01",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "10/08/2015 05:43"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "10/08/2015 08:00"
+                }
+            },
+            "20154910054929-46": {
+                "car-type": "1",
+                "time": "06:06",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "10/08/2015 05:49"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "10/08/2015 15:00"
+                }
+            }
+        },
+        "08:00": {
+            "20154310054319-507": {
+                "car-type": "3",
+                "time": "08:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "10/08/2015 06:01"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "10/08/2015 08:08"
+                }
+            }
+        },
+        "15:00": {
+            "20154910054929-46": {
+                "car-type": "1",
+                "time": "15:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "10/08/2015 06:06"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "10/08/2015 15:07"
+                }
+            }
+        }
+    },
+    "11/08/2015": {
+        "16:00": {
+            "20155111035152-902": {
+                "car-type": "1",
+                "time": "16:10",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "11/08/2015 15:51"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "11/08/2015 16:10"
+                }
+            }
+        }
+    },
+    "13/08/2015": {
+        "08:00": {
+            "20150213080245-239": {
+                "car-type": "3",
+                "time": "08:18",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "13/08/2015 08:02"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "13/08/2015 08:18"
+                }
+            }
+        }
+    },
+    "15/08/2015": {
+        "15:00": {
+            "20153815023810-577": {
+                "car-type": "1",
+                "time": "15:25",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "15/08/2015 15:18"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "15/08/2015 15:25"
+                }
+            }
+        }
+    },
+    "16/08/2015": {
+        "13:00": {
+            "20150916010937-480": {
+                "car-type": "1",
+                "time": "13:41",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "16/08/2015 13:30"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "16/08/2015 13:47"
+                }
+            }
+        },
+        "15:00": {
+            "20154416024437-390": {
+                "car-type": "1",
+                "time": "15:04",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "16/08/2015 14:57"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "16/08/2015 15:04"
+                }
+            }
+        },
+        "16:00": {
+            "20154516034551-980": {
+                "car-type": "2",
+                "time": "16:05",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "16/08/2015 15:45"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "16/08/2015 16:05"
+                }
+            }
+        }
+    },
+    "17/08/2015": {
+        "05:00": {
+            "20152217052212-65": {
+                "car-type": "1",
+                "time": "05:39",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "17/08/2015 05:22"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "17/08/2015 10:00"
+                }
+            }
+        },
+        "10:00": {
+            "20152217052212-65": {
+                "car-type": "1",
+                "time": "10:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "17/08/2015 05:39"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "17/08/2015 10:07"
+                }
+            }
+        },
+        "17:00": {
+            "20155417045421-956": {
+                "car-type": "2",
+                "time": "17:40",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "17/08/2015 17:39"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "17/08/2015 17:46"
+                }
+            }
+        }
+    },
+    "18/08/2015": {
+        "16:00": {
+            "20154918034939-914": {
+                "car-type": "1",
+                "time": "16:33",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "18/08/2015 16:25"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "18/08/2015 16:33"
+                }
+            },
+            "20150318040307-903": {
+                "car-type": "1",
+                "time": "16:42",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "18/08/2015 16:35"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "18/08/2015 16:42"
+                }
+            }
+        }
+    },
+    "20/08/2015": {
+        "07:00": {
+            "20154920064954-526": {
+                "car-type": "1",
+                "time": "07:40",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "20/08/2015 07:33"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "20/08/2015 09:00"
+                }
+            }
+        },
+        "09:00": {
+            "20154920064954-526": {
+                "car-type": "1",
+                "time": "09:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "20/08/2015 07:40"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "20/08/2015 09:07"
+                }
+            }
+        }
+    },
+    "22/08/2015": {
+        "08:00": {
+            "20155022075049-151": {
+                "car-type": "3",
+                "time": "08:12",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "22/08/2015 08:02"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "24/08/2015 06:59"
+                }
+            }
+        },
+        "10:00": {
+            "20155222095214-329": {
+                "car-type": "3",
+                "time": "10:11",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "22/08/2015 10:10"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "22/08/2015 10:19"
+                }
+            }
+        },
+        "15:00": {
+            "20152222022221-91": {
+                "car-type": "3",
+                "time": "15:11",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "22/08/2015 15:10"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "22/08/2015 15:17"
+                }
+            }
+        }
+    },
+    "23/08/2015": {
+        "06:00": {
+            "20155823055803-433": {
+                "car-type": "1",
+                "time": "06:21",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "23/08/2015 06:13"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "23/08/2015 06:21"
+                }
+            }
+        }
+    },
+    "24/08/2015": {
+        "06:00": {
+            "20155022075049-151": {
+                "car-type": "3",
+                "time": "06:59",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "22/08/2015 08:12"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "24/08/2015 07:08"
+                }
+            }
+        }
+    },
+    "25/08/2015": {
+        "13:00": {
+            "20153525013539-635": {
+                "car-type": "1",
+                "time": "13:56",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "25/08/2015 13:49"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "25/08/2015 13:56"
+                }
+            }
+        }
+    },
+    "26/08/2015": {
+        "06:00": {
+            "20153026063056-531": {
+                "car-type": "1",
+                "time": "06:48",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "26/08/2015 06:40"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "26/08/2015 12:00"
+                }
+            }
+        },
+        "12:00": {
+            "20153026063056-531": {
+                "car-type": "1",
+                "time": "12:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "26/08/2015 06:48"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "26/08/2015 12:07"
+                }
+            }
+        }
+    },
+    "27/08/2015": {
+        "09:00": {
+            "20152327092353-670": {
+                "car-type": "3",
+                "time": "09:40",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "27/08/2015 09:23"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "30/08/2015 20:25"
+                }
+            }
+        }
+    },
+    "28/08/2015": {
+        "09:00": {
+            "20152128092124-904": {
+                "car-type": "3",
+                "time": "09:41",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "28/08/2015 09:34"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "31/08/2015 18:41"
+                }
+            }
+        }
+    },
+    "29/08/2015": {
+        "07:00": {
+            "20151129071142-601": {
+                "car-type": "1",
+                "time": "07:27",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "29/08/2015 07:11"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "29/08/2015 12:00"
+                }
+            }
+        },
+        "12:00": {
+            "20151129071142-601": {
+                "car-type": "1",
+                "time": "12:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "29/08/2015 07:27"
+                },
+                "next": {
+                    "gate": "entrance2",
+                    "timestamp": "29/08/2015 12:15"
+                }
+            }
+        },
+        "14:00": {
+            "20153529023546-798": {
+                "car-type": "2",
+                "time": "14:53",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "29/08/2015 14:35"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "29/08/2015 14:53"
+                }
+            }
+        }
+    },
+    "30/08/2015": {
+        "20:00": {
+            "20152327092353-670": {
+                "car-type": "3",
+                "time": "20:25",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "27/08/2015 09:40"
+                },
+                "next": {
+                    "gate": "entrance2",
+                    "timestamp": "30/08/2015 20:42"
+                }
+            }
+        }
+    },
+    "31/08/2015": {
+        "06:00": {
+            "20152431062440-856": {
+                "car-type": "1",
+                "time": "06:43",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "31/08/2015 06:24"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "31/08/2015 06:43"
+                }
+            }
+        },
+        "18:00": {
+            "20152128092124-904": {
+                "car-type": "3",
+                "time": "18:41",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "28/08/2015 09:41"
+                },
+                "next": {
+                    "gate": "entrance2",
+                    "timestamp": "31/08/2015 18:56"
+                }
+            }
+        }
+    },
+    "05/09/2015": {
+        "09:00": {
+            "20155205085202-209": {
+                "car-type": "3",
+                "time": "09:51",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "05/09/2015 09:42"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "05/09/2015 09:51"
+                }
+            }
+        },
+        "10:00": {
+            "20153505103515-843": {
+                "car-type": "1",
+                "time": "10:54",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "05/09/2015 10:35"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "05/09/2015 10:54"
+                }
+            }
+        },
+        "16:00": {
+            "20152405042448-474": {
+                "car-type": "2",
+                "time": "16:40",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "05/09/2015 16:24"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "05/09/2015 18:33"
+                }
+            }
+        },
+        "18:00": {
+            "20152405042448-474": {
+                "car-type": "2",
+                "time": "18:33",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "05/09/2015 16:40"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "05/09/2015 18:40"
+                }
+            }
+        }
+    },
+    "08/09/2015": {
+        "09:00": {
+            "20151208091219-174": {
+                "car-type": "3",
+                "time": "09:59",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "08/09/2015 09:58"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "08/09/2015 10:06"
+                }
+            }
+        },
+        "13:00": {
+            "20152208012223-312": {
+                "car-type": "1",
+                "time": "13:40",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "08/09/2015 13:32"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "08/09/2015 13:40"
+                }
+            }
+        }
+    },
+    "09/09/2015": {
+        "15:00": {
+            "20154009034030-315": {
+                "car-type": "3",
+                "time": "15:59",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "09/09/2015 15:50"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "09/09/2015 15:59"
+                }
+            }
+        }
+    },
+    "10/09/2015": {
+        "12:00": {
+            "20152510112541-380": {
+                "car-type": "2",
+                "time": "12:08",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "10/09/2015 12:00"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "10/09/2015 12:08"
+                }
+            }
+        }
+    },
+    "11/09/2015": {
+        "05:00": {
+            "20151511051548-374": {
+                "car-type": "2",
+                "time": "05:32",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "11/09/2015 05:15"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "11/09/2015 15:00"
+                }
+            }
+        },
+        "15:00": {
+            "20151511051548-374": {
+                "car-type": "2",
+                "time": "15:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "11/09/2015 05:32"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "11/09/2015 15:07"
+                }
+            }
+        }
+    },
+    "12/09/2015": {
+        "14:00": {
+            "20155012015018-20": {
+                "car-type": "2",
+                "time": "14:45",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "12/09/2015 14:37"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "12/09/2015 17:16"
+                }
+            }
+        },
+        "17:00": {
+            "20155012015018-20": {
+                "car-type": "2",
+                "time": "17:16",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "12/09/2015 14:45"
+                },
+                "next": {
+                    "gate": "camping8",
+                    "timestamp": "12/09/2015 17:33"
+                }
+            }
+        }
+    },
+    "13/09/2015": {
+        "05:00": {
+            "20150913050914-900": {
+                "car-type": "2",
+                "time": "05:25",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "13/09/2015 05:18"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "13/09/2015 05:25"
+                }
+            }
+        },
+        "08:00": {
+            "20151713081738-591": {
+                "car-type": "1",
+                "time": "08:57",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "13/09/2015 08:50"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "13/09/2015 11:00"
+                }
+            }
+        },
+        "11:00": {
+            "20151713081738-591": {
+                "car-type": "1",
+                "time": "11:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "13/09/2015 08:57"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "13/09/2015 11:07"
+                }
+            }
+        },
+        "12:00": {
+            "20150113120100-489": {
+                "car-type": "1",
+                "time": "12:57",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "13/09/2015 12:49"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "13/09/2015 12:57"
+                }
+            }
+        }
+    },
+    "15/09/2015": {
+        "14:00": {
+            "20153815023800-36": {
+                "car-type": "3",
+                "time": "14:59",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "15/09/2015 14:51"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "15/09/2015 14:59"
+                }
+            }
+        }
+    },
+    "17/09/2015": {
+        "05:00": {
+            "20151017051055-952": {
+                "car-type": "1",
+                "time": "05:30",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "17/09/2015 05:23"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "17/09/2015 06:00"
+                }
+            }
+        },
+        "06:00": {
+            "20151017051055-952": {
+                "car-type": "1",
+                "time": "06:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "17/09/2015 05:30"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "17/09/2015 06:06"
+                }
+            }
+        },
+        "10:00": {
+            "20155705025759-63": {
+                "car-type": "1",
+                "time": "10:44",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "17/09/2015 10:31"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "17/09/2015 10:51"
+                }
+            },
+            "20154817094842-449": {
+                "car-type": "1",
+                "time": "10:36",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "17/09/2015 10:29"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "17/09/2015 12:00"
+                }
+            }
+        },
+        "12:00": {
+            "20154817094842-449": {
+                "car-type": "1",
+                "time": "12:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "17/09/2015 10:36"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "17/09/2015 12:06"
+                }
+            }
+        },
+        "14:00": {
+            "20152117022138-506": {
+                "car-type": "1",
+                "time": "14:40",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "17/09/2015 14:21"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "17/09/2015 14:40"
+                }
+            }
+        }
+    },
+    "18/09/2015": {
+        "12:00": {
+            "20151818111845-978": {
+                "car-type": "2",
+                "time": "12:16",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "18/09/2015 12:07"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "18/09/2015 12:23"
+                }
+            }
+        }
+    },
+    "19/09/2015": {
+        "07:00": {
+            "20155219065253-324": {
+                "car-type": "1",
+                "time": "07:14",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "19/09/2015 07:07"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "19/09/2015 15:00"
+                }
+            }
+        },
+        "12:00": {
+            "20153119113107-915": {
+                "car-type": "3",
+                "time": "12:07",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "19/09/2015 12:01"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "19/09/2015 12:07"
+                }
+            }
+        },
+        "15:00": {
+            "20155219065253-324": {
+                "car-type": "1",
+                "time": "15:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "19/09/2015 07:14"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "19/09/2015 15:07"
+                }
+            }
+        },
+        "17:00": {
+            "20155519045528-235": {
+                "car-type": "1",
+                "time": "17:34",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "19/09/2015 17:27"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "19/09/2015 17:34"
+                }
+            }
+        }
+    },
+    "21/09/2015": {
+        "17:00": {
+            "20153421053409-684": {
+                "car-type": "1",
+                "time": "17:55",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "21/09/2015 17:48"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "26/09/2015 18:50"
+                }
+            }
+        }
+    },
+    "22/09/2015": {
+        "06:00": {
+            "20154622054628-601": {
+                "car-type": "1",
+                "time": "06:45",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "22/09/2015 06:37"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "22/09/2015 12:00"
+                }
+            }
+        },
+        "12:00": {
+            "20154622054628-601": {
+                "car-type": "1",
+                "time": "12:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "22/09/2015 06:45"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "22/09/2015 12:08"
+                }
+            }
+        }
+    },
+    "25/09/2015": {
+        "10:00": {
+            "20155225095247-318": {
+                "car-type": "1",
+                "time": "10:08",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "25/09/2015 09:52"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "25/09/2015 10:08"
+                }
+            }
+        }
+    },
+    "26/09/2015": {
+        "08:00": {
+            "20154826074807-651": {
+                "car-type": "1",
+                "time": "08:34",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "26/09/2015 08:26"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "26/09/2015 12:00"
+                }
+            }
+        },
+        "12:00": {
+            "20154826074807-651": {
+                "car-type": "1",
+                "time": "12:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "26/09/2015 08:34"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "26/09/2015 12:08"
+                }
+            }
+        },
+        "18:00": {
+            "20153421053409-684": {
+                "car-type": "1",
+                "time": "18:50",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "21/09/2015 17:55"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "26/09/2015 18:57"
+                }
+            }
+        }
+    },
+    "29/09/2015": {
+        "16:00": {
+            "20153629043624-983": {
+                "car-type": "1",
+                "time": "16:54",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "29/09/2015 16:36"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "29/09/2015 16:54"
+                }
+            }
+        }
+    },
+    "04/10/2015": {
+        "08:00": {
+            "20151404081453-864": {
+                "car-type": "2",
+                "time": "08:34",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "04/10/2015 08:27"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "04/10/2015 08:34"
+                }
+            }
+        }
+    },
+    "05/10/2015": {
+        "12:00": {
+            "20151405121430-416": {
+                "car-type": "1",
+                "time": "12:30",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "05/10/2015 12:14"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "05/10/2015 12:30"
+                }
+            }
+        }
+    },
+    "06/10/2015": {
+        "10:00": {
+            "20151706101742-248": {
+                "car-type": "3",
+                "time": "10:57",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "06/10/2015 10:50"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "06/10/2015 10:57"
+                }
+            }
+        }
+    },
+    "12/10/2015": {
+        "11:00": {
+            "20155012105037-73": {
+                "car-type": "1",
+                "time": "11:05",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "12/10/2015 10:50"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "12/10/2015 11:05"
+                }
+            }
+        }
+    },
+    "16/10/2015": {
+        "09:00": {
+            "20155916085908-921": {
+                "car-type": "2",
+                "time": "09:56",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "16/10/2015 09:48"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "16/10/2015 10:00"
+                }
+            }
+        },
+        "10:00": {
+            "20155916085908-921": {
+                "car-type": "2",
+                "time": "10:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "16/10/2015 09:56"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "16/10/2015 10:09"
+                }
+            }
+        }
+    },
+    "17/10/2015": {
+        "16:00": {
+            "20154817034841-275": {
+                "car-type": "3",
+                "time": "16:44",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "17/10/2015 16:36"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "17/10/2015 16:44"
+                }
+            }
+        }
+    },
+    "26/10/2015": {
+        "11:00": {
+            "20150026110019-851": {
+                "car-type": "1",
+                "time": "11:19",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "26/10/2015 11:10"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "26/10/2015 11:19"
+                }
+            }
+        }
+    },
+    "27/10/2015": {
+        "06:00": {
+            "20153627053602-196": {
+                "car-type": "1",
+                "time": "06:11",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "27/10/2015 06:05"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "27/10/2015 15:00"
+                }
+            }
+        },
+        "15:00": {
+            "20153627053602-196": {
+                "car-type": "1",
+                "time": "15:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "27/10/2015 06:11"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "27/10/2015 15:07"
+                }
+            }
+        }
+    },
+    "03/11/2015": {
+        "12:00": {
+            "20154903114941-837": {
+                "car-type": "1",
+                "time": "12:29",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "03/11/2015 12:06"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "03/11/2015 12:36"
+                }
+            }
+        }
+    },
+    "18/11/2015": {
+        "15:00": {
+            "20153018033001-999": {
+                "car-type": "3",
+                "time": "15:50",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "18/11/2015 15:41"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "18/11/2015 15:50"
+                }
+            }
+        }
+    },
+    "20/11/2015": {
+        "15:00": {
+            "20155320015318-618": {
+                "car-type": "2P",
+                "time": "15:28",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "20/11/2015 15:13"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "20/11/2015 15:36"
+                }
+            }
+        }
+    },
+    "28/11/2015": {
+        "16:00": {
+            "20155628035624-221": {
+                "car-type": "3",
+                "time": "16:36",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "28/11/2015 16:29"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "28/11/2015 16:36"
+                }
+            }
+        }
+    },
+    "04/01/2016": {
+        "14:00": {
+            "20163204013256-351": {
+                "car-type": "3",
+                "time": "14:17",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "04/01/2016 14:09"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "04/01/2016 14:17"
+                }
+            }
+        }
+    },
+    "07/02/2016": {
+        "06:00": {
+            "20162607062658-206": {
+                "car-type": "3",
+                "time": "06:46",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "07/02/2016 06:37"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "07/02/2016 06:46"
+                }
+            }
+        }
+    },
+    "18/02/2016": {
+        "08:00": {
+            "20165618075655-217": {
+                "car-type": "2",
+                "time": "08:13",
+                "previous": {
+                    "gate": "general-gate5",
+                    "timestamp": "18/02/2016 08:05"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "18/02/2016 08:13"
+                }
+            }
+        }
+    },
+    "06/05/2016": {
+        "08:00": {
+            "20163106083119-771": {
+                "car-type": "3",
+                "time": "08:55",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "06/05/2016 08:47"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "06/05/2016 11:00"
+                }
+            }
+        },
+        "11:00": {
+            "20163106083119-771": {
+                "car-type": "3",
+                "time": "11:00",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "06/05/2016 08:55"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "06/05/2016 11:08"
+                }
+            }
+        },
+        "13:00": {
+            "20160506010551-430": {
+                "car-type": "1",
+                "time": "13:21",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "06/05/2016 13:05"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "06/05/2016 13:21"
+                }
+            }
+        }
+    },
+    "15/05/2016": {
+        "11:00": {
+            "20161515101514-592": {
+                "car-type": "1",
+                "time": "11:00",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "15/05/2016 10:52"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "15/05/2016 12:33"
+                }
+            }
+        },
+        "12:00": {
+            "20161515101514-592": {
+                "car-type": "1",
+                "time": "12:33",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "15/05/2016 11:00"
+                },
+                "next": {
+                    "gate": "general-gate0",
+                    "timestamp": "15/05/2016 12:41"
+                }
+            }
+        }
+    },
+    "21/05/2016": {
+        "10:00": {
+            "20163721093756-14": {
+                "car-type": "1",
+                "time": "10:33",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "21/05/2016 10:25"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "21/05/2016 10:33"
+                }
+            }
+        }
+    },
+    "24/05/2016": {
+        "13:00": {
+            "20163024013029-713": {
+                "car-type": "1",
+                "time": "13:55",
+                "previous": {
+                    "gate": "general-gate0",
+                    "timestamp": "24/05/2016 13:46"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "24/05/2016 13:55"
+                }
+            }
+        }
+    },
+    "27/05/2016": {
+        "14:00": {
+            "20165627015640-416": {
+                "car-type": "1",
+                "time": "14:17",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "27/05/2016 14:16"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "27/05/2016 14:26"
+                }
+            }
+        },
+        "16:00": {
+            "20162027042012-940": {
+                "car-type": "1",
+                "time": "16:37",
+                "previous": {
+                    "gate": "entrance2",
+                    "timestamp": "27/05/2016 16:20"
+                },
+                "next": {
+                    "gate": "camping1",
+                    "timestamp": "29/05/2016 08:44"
+                }
+            }
+        }
+    },
+    "29/05/2016": {
+        "08:00": {
+            "20162027042012-940": {
+                "car-type": "1",
+                "time": "08:44",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "27/05/2016 16:37"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "29/05/2016 08:52"
+                }
+            }
+        },
+        "09:00": {
+            "20162027042012-940": {
+                "car-type": "1",
+                "time": "09:46",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "29/05/2016 09:42"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "29/05/2016 09:55"
+                }
+            }
+        },
+        "10:00": {
+            "20162027042012-940": {
+                "car-type": "1",
+                "time": "10:32",
+                "previous": {
+                    "gate": "camping1",
+                    "timestamp": "29/05/2016 10:29"
+                },
+                "next": {
+                    "gate": "general-gate5",
+                    "timestamp": "29/05/2016 10:40"
+                }
+            }
+        }
+    }
+}
