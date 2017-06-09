@@ -1,0 +1,17 @@
+/**
+ * Name: Laura Ruis
+ * Student number: 10158006
+ * Programmeerproject
+ * VAST Challenge 2017
+ */
+
+.nodes {
+    fill: #ccc;
+    stroke: #fff;
+    stroke-width: 1px;
+}
+
+.links {
+    stroke: #777;
+    stroke-width: 2px;
+}
