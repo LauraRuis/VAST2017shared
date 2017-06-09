@@ -2,9 +2,17 @@
 
 from PIL import Image
 import numpy as np
+import sys
+
+sys.setrecursionlimit(5000)
 
 
-def search(node, current, previous, array, count):
+def search(node, current, previous, array, count, path):
+
+    if count > 5000:
+        return
+
+    path.append(current)
 
     next_places = []
     surrounding = [
@@ -14,20 +22,8 @@ def search(node, current, previous, array, count):
         [current[0], current[1] - 1]
     ]
 
-    for key in previous.keys():
-        location = previous[key]
-        if location['place'] in surrounding:
-            if location['steps'] < count:
-                surrounding.remove(location['place'])
-
-    if str(current) in previous.keys():
-        if previous[str(current)]['steps'] > count:
-            previous[str(current)]['steps'] = count
-    else:
-        previous[str(current)] = {
-            'place': current,
-            'steps': count
-        }
+    if previous:
+        surrounding.remove(previous)
 
     for place in surrounding:
         if array[place[0], place[1]] == 35:
@@ -35,13 +31,19 @@ def search(node, current, previous, array, count):
         elif 28 <= array[place[0], place[1]] <= 33:
             found_name = [node.name for node in node_list if node.place == place][0]
             if found_name in node.reachable.keys():
-                if node.reachable[found_name] > count + 1:
-                    node.reachable[found_name] = count + 1
+                if node.reachable[found_name]['steps'] > count + 1:
+                    node.reachable[found_name] = {
+                        'steps': count + 1,
+                        'path': path
+                    }
             else:
-                node.reachable[found_name] = count + 1
+                node.reachable[found_name] = {
+                    'steps': count + 1,
+                    'path': path
+                }
 
     for place in next_places:
-        search(node, place, previous, array, count + 1)
+        search(node, place, current, array, count + 1, path)
 
     return
 
@@ -99,7 +101,7 @@ n = 200
 for row in range(n):
     for col in range(n):
         pixel = map_array[row, col]
-        if pixel < 28:
+        if pixel < 28 or pixel == 34:
             map_array[row, col] = 0
             pixel = 0
 
@@ -107,6 +109,6 @@ for row in range(n):
             node_list.append(node(row, col, pixel))
 
 for node in node_list:
-    search(node, node.place, {}, map_array, 0)
-    print(node.name)
-    print(node.reachable)
+    search(node, node.place, None, map_array, 0, [])
+
+print(node_list[0].reachable)
