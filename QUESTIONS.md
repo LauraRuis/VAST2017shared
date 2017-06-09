@@ -9,3 +9,4 @@
 7. Clustering
 8. Groups (same entrance, same exit, same route)
 9. Suspicious patterns
+10. Ranger patterns
